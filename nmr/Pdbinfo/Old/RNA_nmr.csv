@@ -1,0 +1,59 @@
+,pdb,mmtype,mmclass,reso,ligand,metal,solvent,stem,bulge,iloop,hairpin
+65,1ajf,RNA,RNA,null,,NCO,, 1ajf_0_7,,, 1ajf_0_4
+68,1aju,RNA,RNA,null,ARG,,, 1aju_0_7 1aju_1_4, 1aju_0_2,, 1aju_0_6
+69,1akx,RNA,RNA,null,ARG,,, 1akx_0_7 1akx_1_4, 1akx_0_2,, 1akx_0_6
+72,1am0,RNA,RNA,null,AMP,,,,, 1am0_0_11_1,
+79,1arj,RNA,RNA,null,ARG,,, 1arj_0_5 1arj_1_4, 1arj_0_3,, 1arj_0_6
+131,1byj,RNA,RNA,null,GE1 GE2 GE3,,, 1byj_0_4 1byj_1_4,, 1byj_0_1_1 1byj_1_1_2, 1byj_0_4
+137,1c0o,RNA,RNA,null,,NCO,, 1c0o_0_5,,, 1c0o_0_4
+207,1eht,RNA,RNA,null,TEP,,, 1eht_0_4 1eht_1_2 1eht_2_3,, 1eht_0_1_4 1eht_1_3_3, 1eht_0_4
+208,1ei2,RNA,RNA,null,NMY,,, 1ei2_0_6, 1ei2_0_1,, 1ei2_0_6
+244,1f78,RNA,RNA,null,,NCO,, 1f78_0_5 1f78_1_6, 1f78_0_1,, 1f78_0_4
+245,1f79,RNA,RNA,null,,NCO,, 1f79_0_6 1f79_1_5, 1f79_0_1,, 1f79_0_4
+248,1f7h,RNA,RNA,null,,NCO,, 1f7h_0_4 1f7h_1_6, 1f7h_0_1,, 1f7h_0_4
+249,1f7i,RNA,RNA,null,,NCO,, 1f7i_0_5 1f7i_1_5, 1f7i_0_1,, 1f7i_0_4
+263,1fmn,RNA,RNA,null,FMN,,, 1fmn_0_7 1fmn_1_3,, 1fmn_0_6_5, 1fmn_0_4
+271,1fyp,RNA,RNA,null,PAR,,, 1fyp_0_4 1fyp_1_4,, 1fyp_0_1_1 1fyp_1_1_2, 1fyp_0_4
+366,1jtw,RNA,RNA,null,,NA,, 1jtw_0_5,,, 1jtw_0_4
+407,1koc,RNA,RNA,null,ARG,,, 1koc_0_2 1koc_1_2,, 1koc_0_3_1 1koc_1_2_7,
+408,1kod,RNA,RNA,null,CIR,,, 1kod_0_2 1kod_1_2 1kod_2_2,, 1kod_0_3_1 1kod_1_2_7,
+443,1lvj,RNA,RNA,null,PMZ,,, 1lvj_0_7 1lvj_1_4, 1lvj_0_3,, 1lvj_0_6
+490,1nbk,RNA,RNA,null,GND,,, 1nbk_0_6 1nbk_1_4 1nbk_2_3, 1nbk_0_2 1nbk_1_2,, 1nbk_0_4
+493,1nem,RNA,RNA,null,BDG BDR IDG NEB,,, 1nem_0_9,,, 1nem_0_5
+510,1o15,RNA,RNA,null,TEP,,, 1o15_0_4 1o15_1_2 1o15_2_3,, 1o15_0_1_4 1o15_1_3_3, 1o15_0_4
+537,1pbr,RNA,RNA,null,BDR CYY IDG PA1,,, 1pbr_0_4 1pbr_1_4,, 1pbr_0_1_1 1pbr_1_1_2, 1pbr_0_4
+549,1q8n,RNA,RNA,null,MGR,,, 1q8n_0_6 1q8n_1_2 1q8n_2_5, 1q8n_0_3, 1q8n_0_1_4, 1q8n_0_4
+553,1qd3,RNA,RNA,null,BDG CYY IDG RIB,,, 1qd3_0_6 1qd3_1_4, 1qd3_0_3,, 1qd3_0_6
+579,1raw,RNA,RNA,null,AMP,,, 1raw_0_6 1raw_1_4,, 1raw_0_11_1, 1raw_0_4
+639,1tob,RNA,RNA,null,TOA TOB TOC,,, 1tob_0_8 1tob_1_2, 1tob_0_1,, 1tob_0_6
+662,1uts,RNA,HIV-1,null,P13,,, 1uts_0_6 1uts_1_4, 1uts_0_3,, 1uts_0_6
+663,1uud,RNA,HIV-1,null,P14,,, 1uud_0_6 1uud_1_4, 1uud_0_3,, 1uud_0_6
+664,1uui,RNA,HIV-1,null,P12,,, 1uui_0_6 1uui_1_4, 1uui_0_3,, 1uui_0_6
+700,1xst,RNA,RNA,null,,NCO,, 1xst_0_5 1xst_1_6, 1xst_0_1,, 1xst_0_4
+701,1xsu,RNA,RNA,null,,NCO,, 1xsu_0_6 1xsu_1_5, 1xsu_0_1,, 1xsu_0_4
+720,1yn2,RNA,RNA,null,,MN,, 1yn2_0_6,,, 1yn2_0_5
+768,2au4,RNA,RNA,null,GTP,,, 2au4_0_6 2au4_1_4,, 2au4_0_2_4 2au4_1_7_2, 2au4_0_4
+779,2cd5,RNA,NUCLEIC ACID,null,,NCO,, 2cd5_0_5 2cd5_1_6, 2cd5_0_1,, 2cd5_0_4
+780,2cd6,RNA,NUCLEIC ACID,null,,NCO,, 2cd6_0_6 2cd6_1_5, 2cd6_0_1,, 2cd6_0_4
+852,2i7e,RNA,RIBONUCLEIC ACID,null,,NCO,, 2i7e_0_5 2i7e_1_12 2i7e_2_4 2i7e_3_12,, 2i7e_0_2_3 2i7e_1_3_4, 2i7e_0_4 2i7e_1_4
+853,2i7z,RNA,RIBONUCLEIC ACID,null,,MN,, 2i7z_0_5 2i7z_1_12 2i7z_2_5 2i7z_3_12,, 2i7z_0_2_3 2i7z_1_2_3, 2i7z_0_4 2i7z_1_4
+877,2juk,RNA,RNA,null,G0B,,, 2juk_0_9,,, 2juk_0_4
+923,2kd4,RNA,RNA,null,PRL,,,,,,
+941,2kgp,RNA,RNA,null,MIX,,, 2kgp_0_3 2kgp_1_6, 2kgp_0_1,, 2kgp_0_6
+982,2ktz,RNA,RNA,null,ISH,,, 2ktz_0_5 2ktz_1_4 2ktz_2_2, 2ktz_0_1 2ktz_1_5, 2ktz_0_2_2, 2ktz_0_4
+983,2ku0,RNA,RNA,null,ISI,,, 2ku0_0_5 2ku0_1_4 2ku0_2_2, 2ku0_0_1 2ku0_1_5, 2ku0_0_2_2, 2ku0_0_4
+995,2kx8,RNA,RNA,null,ARG,,, 2kx8_0_6 2kx8_1_5 2kx8_2_5, 2kx8_0_2, 2kx8_0_1_2, 2kx8_0_5
+996,2kxm,RNA,RNA/Antibiotic,null,RIO,,, 2kxm_0_5 2kxm_1_2, 2kxm_0_3, 2kxm_0_1_1, 2kxm_0_6
+1014,2l1v,RNA,RNA,null,PRF,,, 2l1v_0_5 2l1v_1_3,,, 2l1v_0_12 2l1v_1_19
+1035,2l8h,RNA,RNA,null,ARG L8H,,, 2l8h_0_6 2l8h_1_4, 2l8h_0_3,, 2l8h_0_6
+1041,2l94,RNA,RNA/INHIBITOR,null,L94,,, 2l94_0_8 2l94_1_11, 2l94_0_3,, 2l94_0_4
+1115,2lwk,RNA,RNA,null,0EC,,, 2lwk_0_7 2lwk_1_3,, 2lwk_0_1_1 2lwk_1_2_1, 2lwk_0_4
+1146,2m4q,RNA,RNA/antibiotic,null,AM2,,, 2m4q_0_4 2m4q_1_4,, 2m4q_0_1_1 2m4q_1_1_2, 2m4q_0_4
+1199,2mis,RNA,RNA,null,,MG,, 2mis_0_6 2mis_1_3,, 2mis_0_3_1, 2mis_0_4
+1202,2miy,RNA,RNA,null,PRF,,, 2miy_0_8 2miy_1_6 2miy_2_4,,, 2miy_0_12 2miy_1_4
+1239,2mtk,RNA,RNA,null,,MG,, 2mtk_0_5 2mtk_1_6 2mtk_2_4,,, 2mtk_0_2 2mtk_1_4
+1248,2mxs,RNA,RNA,null,PAR,,, 2mxs_0_5 2mxs_1_2, 2mxs_0_3, 2mxs_0_1_1, 2mxs_0_6
+1251,2n0j,RNA,RNA,null,RIO,,, 2n0j_0_5 2n0j_1_2, 2n0j_0_3, 2n0j_0_1_1, 2n0j_0_6
+1262,2n3r,RNA,RNA,null,,MG,, 2n3r_0_5 2n3r_1_3 2n3r_2_3 2n3r_3_3 2n3r_4_3 2n3r_5_4, 2n3r_0_1 2n3r_1_2, 2n3r_0_1_2, 2n3r_0_2 2n3r_1_4
+1358,2tob,RNA,RNA,null,2TB TOA TOC,,, 2tob_0_4,, 2tob_0_2_2, 2tob_0_6
+1430,5lwj,RNA,RNA,null,GTP,,, 5lwj_0_7 5lwj_1_2,,, 5lwj_0_10 5lwj_1_8

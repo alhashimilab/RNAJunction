@@ -1,0 +1,1464 @@
+pdb,mmtype,mmclass,reso,ligand,metal,solvent,stem,bulge,iloop,hairpin
+103d,DNA,DNA,null,,,, 103d_0_2 103d_1_2 103d_2_2,, 103d_0_3_3 103d_1_3_3,
+104d,DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 104d_0_12,,,
+105d,DNA,DNA,null,,,,,,,
+106d,DNA,DNA,null,,,,,,,
+107d,DNA,DNA,null,DUO,,, 107d_0_7,,,
+108d,DNA,DNA,null,TOT,,, 108d_0_8,,,
+124d,DNA#RNA,DNA-RNA HYBRID,null,,,, 124d_0_8,,,
+132d,DNA,DNA,null,,,, 132d_0_12,,,
+134d,DNA,DNA,null,,,, 134d_0_7,,,
+135d,DNA,DNA,null,,,, 135d_0_7,,,
+136d,DNA,DNA,null,,,, 136d_0_7,,,
+139d,DNA,DNA,null,,,,,,,
+140d,DNA,DNA,null,,,, 140d_0_13,,,
+141d,DNA,DNA,null,,,, 141d_0_13,,,
+142d,DNA,DNA,null,,,, 142d_0_13,,,
+143d,DNA,DNA,null,,,,,,, 143d_0_12
+146d,DNA,DNA,null,CRH DDA DDL MDA,MG,, 146d_0_6,,,
+148d,DNA,DNA,null,,,,,,, 148d_0_6
+149d,DNA,DNA,null,,,, 149d_0_7,,,
+156d,DNA,DNA,null,,,,,,,
+169d,DNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 169d_0_10,,,
+170d,DNA/RNA Hybrid,DNA,null,,,, 170d_0_12,,,
+171d,DNA,DNA,null,,,, 171d_0_12,,,
+175d,DNA,DNA,null,,,, 175d_0_2 175d_1_2 175d_2_2,, 175d_0_2_2 175d_1_2_2,
+176d,DNA#RNA,PEPTIDE NUCLEIC ACID/RNA,null,,,,,,,
+177d,DNA,DNA,null,,,, 177d_0_7,,,
+179d,DNA,DNA,null,,,,,,,
+17ra,RNA,RNA,null,,,, 17ra_0_5 17ra_1_2,, 17ra_0_2_1, 17ra_0_4
+185d,Protein#DNA,DNA/ANTIBIOTIC,null,QUI,,, 185d_0_6,,,
+186d,DNA,DNA,null,,,,,,,
+193d,Protein#DNA,DNA/ANTIBIOTIC,null,HQU,,, 193d_0_8,,,
+199d,DNA,DNA,null,MOC,,, 199d_0_9,,,
+1a1t,Protein#RNA,Viral protein/RNA,null,,ZN,, 1a1t_0_8,,, 1a1t_0_4
+1a3m,RNA,RNA,null,,,, 1a3m_0_4 1a3m_1_4,, 1a3m_0_1_1 1a3m_1_1_2,
+1a4d,RNA,RNA,null,,,, 1a4d_0_4 1a4d_1_8,, 1a4d_0_7_7,
+1a4t,Protein#RNA,TRANSCRIPTION/RNA,null,,,, 1a4t_0_5,,, 1a4t_0_5
+1a51,RNA,RNA,null,,,, 1a51_0_4 1a51_1_8,, 1a51_0_7_7, 1a51_0_3
+1a60,RNA,RNA,null,,,, 1a60_0_5 1a60_1_3 1a60_2_6,,, 1a60_0_7 1a60_1_9 1a60_2_6
+1a66,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1a66_0_12,,,
+1a6b,Protein#DNA,Viral protein/DNA,null,,ZN,,,,,
+1a6h,DNA,DNA,null,,,, 1a6h_0_2 1a6h_1_2,,, 1a6h_0_5 1a6h_1_5
+1a83,DNA,DNA,null,,,,,,,
+1a84,DNA,DNA,null,CPT,,, 1a84_0_12,,,
+1a8n,DNA,DNA,null,,,,,, 1a8n_0_2_2 1a8n_1_2_2, 1a8n_0_4 1a8n_1_4
+1a8w,DNA,DNA,null,,,,,, 1a8w_0_2_2 1a8w_1_2_2, 1a8w_0_4 1a8w_1_4
+1a9g,DNA,DNA,null,,,, 1a9g_0_5 1a9g_1_5,,,
+1a9h,DNA,DNA,null,,,, 1a9h_0_5 1a9h_1_5,,,
+1a9i,DNA,DNA,null,,,, 1a9i_0_5 1a9i_1_5,,,
+1a9j,DNA,DNA,null,,,, 1a9j_0_5 1a9j_1_5,,,
+1a9l,RNA,RNA,null,,,, 1a9l_0_6 1a9l_1_4 1a9l_2_4, 1a9l_0_3 1a9l_1_3,, 1a9l_0_4
+1ac3,DNA#RNA,DNA-RNA HYBRID,null,,,, 1ac3_0_6 1ac3_1_6,,,
+1ac7,DNA,DNA,null,,,, 1ac7_0_6,,, 1ac7_0_4
+1ac9,DNA,DNA,null,,,, 1ac9_0_10,,,
+1af1,DNA,DNA,null,,,, 1af1_0_11,,,
+1aff,DNA,DNA,null,,,,,,,
+1afx,RNA,RNA,null,,,, 1afx_0_4,,, 1afx_0_4
+1afz,DNA,DNA,null,,,, 1afz_0_11,,,
+1ag3,DNA,DNA,null,,,, 1ag3_0_5 1ag3_1_6, 1ag3_0_2,,
+1ag5,DNA,DNA,null,,,, 1ag5_0_5 1ag5_1_5, 1ag5_0_1,,
+1agh,DNA,DNA,null,,,, 1agh_0_11,,,
+1agk,DNA,DNA,null,,,, 1agk_0_11,,,
+1ago,DNA,DNA,null,,,, 1ago_0_11,,,
+1agu,DNA,DNA,null,,,, 1agu_0_11,,,
+1agz,DNA,DNA,null,,,, 1agz_0_11,,,
+1ahd,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1ahd_0_14,,,
+1ajf,RNA,RNA,null,,NCO,, 1ajf_0_7,,, 1ajf_0_4
+1ajl,RNA,RNA,null,,,, 1ajl_0_2 1ajl_1_4,, 1ajl_0_6_1,
+1ajt,RNA,RNA,null,,,, 1ajt_0_2 1ajt_1_4,, 1ajt_0_6_1,
+1aju,RNA,RNA,null,ARG,,, 1aju_0_7 1aju_1_4, 1aju_0_2,, 1aju_0_6
+1akx,RNA,RNA,null,ARG,,, 1akx_0_7 1akx_1_4, 1akx_0_2,, 1akx_0_6
+1al5,RNA,RNA,null,,,, 1al5_0_12,,,
+1al9,DNA,DNA,null,BDA,,, 1al9_0_8,,,
+1am0,RNA,RNA,null,AMP,,,,, 1am0_0_11_1,
+1amd,DNA,DNA,null,BNR,,, 1amd_0_6,,,
+1anr,RNA,RNA,null,,,, 1anr_0_5 1anr_1_4,, 1anr_0_4_1, 1anr_0_6
+1ao1,DNA,DNA,null,PL1,,, 1ao1_0_6,,,
+1ao9,DNA,DNA,null,,,, 1ao9_0_6,,,
+1ap1,DNA,DNA,null,,,, 1ap1_0_11,,,
+1aqo,RNA,RNA,null,,,, 1aqo_0_6 1aqo_1_5, 1aqo_0_1 1aqo_1_1,, 1aqo_0_3
+1arj,RNA,RNA,null,ARG,,, 1arj_0_5 1arj_1_4, 1arj_0_3,, 1arj_0_6
+1at4,DNA,DNA,null,,,, 1at4_0_6,,,
+1ato,RNA,RNA,null,,,, 1ato_0_6,,, 1ato_0_7
+1atv,RNA,RNA,null,,,, 1atv_0_6,,, 1atv_0_4
+1atw,RNA,RNA,null,,,, 1atw_0_5,,, 1atw_0_4
+1au5,DNA,DNA,null,CPT,,, 1au5_0_8,,,
+1au6,DNA,DNA,null,BPT,,, 1au6_0_3 1au6_1_3,,, 1au6_0_2 1au6_1_2
+1aud,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 1aud_0_5 1aud_1_4,, 1aud_0_1_7, 1aud_0_4
+1aul,DNA,DNA,null,,,, 1aul_0_9,,,
+1aw4,DNA,DNA,null,AMP,,, 1aw4_0_4 1aw4_1_2,, 1aw4_0_6_6, 1aw4_0_3
+1ax6,DNA,DNA,null,AF,,, 1ax6_0_5 1ax6_1_5, 1ax6_0_2,,
+1ax7,DNA,DNA,null,AF,,, 1ax7_0_9,,,
+1axl,DNA,DNA,null,BAP,,, 1axl_0_5 1axl_1_5, 1axl_0_1,,
+1axo,DNA,DNA,null,BAP,,, 1axo_0_10,,,
+1axp,DNA,DNA,null,,,, 1axp_0_10,,,
+1axu,DNA,DNA,null,AP,,, 1axu_0_5 1axu_1_5,, 1axu_0_1_1,
+1axv,DNA,DNA,null,BAP,,, 1axv_0_11,,,
+1b0s,DNA,DNA,null,AR1,,, 1b0s_0_10,,,
+1b36,RNA,RNA,null,,,, 1b36_0_5 1b36_1_4,, 1b36_0_7_9, 1b36_0_4
+1b3p,DNA,DNA,null,,,,,,,
+1b4y,DNA,DNA,null,,,, 1b4y_0_6,,, 1b4y_0_4
+1b5k,DNA,DNA,null,,,, 1b5k_0_5 1b5k_1_5,,,
+1b60,DNA,DNA,null,,,, 1b60_0_5 1b60_1_5,,,
+1b69,Protein#DNA,INTEGRASE/DNA,null,,,, 1b69_0_13,,,
+1b6x,DNA,DNA,null,,,, 1b6x_0_5 1b6x_1_5,,,
+1b6y,DNA,DNA,null,,,, 1b6y_0_5 1b6y_1_5,,,
+1bae,DNA,DNA,null,,,,,,,
+1bau,RNA,RNA,null,,,, 1bau_0_6 1bau_1_3 1bau_2_6,, 1bau_0_2_2, 1bau_0_11 1bau_1_11
+1bbx,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1bbx_0_12,,,
+1bcb,DNA,DNA,null,,,, 1bcb_0_6,,,
+1bce,DNA,DNA,null,,,, 1bce_0_6,,,
+1bdz,DNA,DNA,null,,,, 1bdz_0_14,,,
+1be5,DNA,DNA,null,,,,,,,
+1bgz,RNA,RNA,null,,,, 1bgz_0_4 1bgz_1_2 1bgz_2_2, 1bgz_0_1 1bgz_1_2,, 1bgz_0_4
+1bhr,DNA,DNA,null,,,, 1bhr_0_12,,,
+1biv,Protein#RNA,Viral protein/RNA,null,,,, 1biv_0_6 1biv_1_4, 1biv_0_1 1biv_1_1,, 1biv_0_4
+1bj2,RNA,RNA,null,,,, 1bj2_0_7 1bj2_1_7 1bj2_2_6,,, 1bj2_0_7 1bj2_1_7
+1bj6,Protein#DNA,Viral protein/DNA,null,,ZN,,,,,
+1bjd,DNA,DNA,null,,,, 1bjd_0_12,,,
+1bjh,DNA,DNA,null,,,, 1bjh_0_4,,, 1bjh_0_3
+1bn0,RNA,RNA,null,,,, 1bn0_0_8,,, 1bn0_0_4
+1bn9,DNA,DNA,null,,,, 1bn9_0_15,,,
+1bp8,DNA,DNA,null,DDA DDL DXB MDA,MG,, 1bp8_0_8,,,
+1bps,DNA,DNA,null,BAP,,, 1bps_0_4 1bps_1_4,, 1bps_0_1_1,
+1bub,DNA,DNA,null,EU,,,,,,
+1buf,DNA,DNA,null,,,, 1buf_0_6,,,
+1but,DNA,DNA,null,,,, 1but_0_8,,,
+1bvj,RNA,RNA,null,,,, 1bvj_0_5 1bvj_1_3, 1bvj_0_1,, 1bvj_0_6
+1bw7,DNA,DNA,null,,,, 1bw7_0_5 1bw7_1_6,, 1bw7_0_1_1,
+1bwg,DNA,DNA,null,,,, 1bwg_0_14,,,
+1bwt,DNA,DNA,null,,,, 1bwt_0_10,,,
+1bx5,DNA,DNA,null,,,, 1bx5_0_3 1bx5_1_4 1bx5_2_3,,,
+1byj,RNA,RNA,null,GE1 GE2 GE3,,, 1byj_0_4 1byj_1_4,, 1byj_0_1_1 1byj_1_1_2, 1byj_0_4
+1byx,RNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1byx_0_6,,,
+1bz2,RNA,RNA,null,,,, 1bz2_0_5,,, 1bz2_0_7
+1bz3,RNA,RNA,null,,,, 1bz3_0_5,, 1bz3_0_1_1, 1bz3_0_3
+1bzt,RNA,RNA,null,,,, 1bzt_0_4,,, 1bzt_0_9
+1bzu,RNA,RNA,null,,,, 1bzu_0_4,,, 1bzu_0_9
+1c0o,RNA,RNA,null,,NCO,, 1c0o_0_5,,, 1c0o_0_4
+1c0y,DNA,DNA,null,AF,,, 1c0y_0_9,,,
+1c11,DNA,DNA,null,,,,,, 1c11_0_2_2,
+1c2q,DNA#RNA,DNA-RNA HYBRID,null,,,, 1c2q_0_5 1c2q_1_4,,,
+1c32,DNA,DNA,null,,,,,,,
+1c34,DNA,DNA,null,,,,,,,
+1c35,DNA,DNA,null,,K,,,,,
+1c38,DNA,DNA,null,,K,,,,,
+1c4l,RNA,RNA,null,,,, 1c4l_0_4 1c4l_1_4,, 1c4l_0_1_1,
+1c7u,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1c7u_0_20,,,
+1c95,DNA,DNA,null,TRP,,, 1c95_0_6,,,
+1cfl,DNA,DNA,null,,,, 1cfl_0_5 1cfl_1_4,, 1cfl_0_1_1,
+1cjg,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1cjg_0_22,,,
+1co0,Protein#DNA,TRANSCRIPTION,null,TRP,,, 1co0_0_20,,,
+1coc,DNA,DNA,null,,,, 1coc_0_12,,,
+1cp8,DNA,DNA,null,DDA DDL DRI DXA,MG,, 1cp8_0_8,,,
+1cq5,RNA,RNA,null,,,, 1cq5_0_5 1cq5_1_3 1cq5_2_3,, 1cq5_0_4_4 1cq5_1_6_3, 1cq5_0_4
+1cql,RNA,RNA,null,,,, 1cql_0_6 1cql_1_3 1cql_2_3,, 1cql_0_5_2 1cql_1_4_4, 1cql_0_4
+1cqo,DNA,DNA,null,,,, 1cqo_0_10,,,
+1cr3,DNA,DNA,null,BC,,, 1cr3_0_11,,,
+1cs2,DNA,DNA,null,,,, 1cs2_0_12,,,
+1cx3,DNA,DNA,null,NF,,, 1cx3_0_6,,,
+1cx5,DNA#RNA,DNA-RNA HYBRID,null,,,, 1cx5_0_6 1cx5_1_6,,,
+1cyz,DNA,DNA,null,AR1,,, 1cyz_0_10,,,
+1d0t,RNA,RNA,null,,,, 1d0t_0_6 1d0t_1_2, 1d0t_0_1,, 1d0t_0_4
+1d0u,RNA,RNA,null,,,, 1d0u_0_6 1d0u_1_2, 1d0u_0_1,, 1d0u_0_4
+1d18,DNA,DNA,null,,,, 1d18_0_8,,,
+1d19,DNA,DNA,null,,,, 1d19_0_8,,,
+1d20,DNA,DNA,null,,,, 1d20_0_10,,,
+1d3x,DNA,DNA,null,,,, 1d3x_0_8,,,
+1d42,DNA,DNA,null,,,, 1d42_0_8,,,
+1d68,DNA,DNA,null,,,, 1d68_0_10,,,
+1d69,DNA,DNA,null,,,, 1d69_0_2 1d69_1_2 1d69_2_2,, 1d69_0_2_2 1d69_1_2_2,
+1d6d,DNA,DNA,null,,,,,,,
+1d6k,Protein#RNA,RIBOSOME,null,,,, 1d6k_0_4 1d6k_1_5,, 1d6k_0_7_7, 1d6k_0_4
+1d70,DNA,DNA,null,,,, 1d70_0_8,,,
+1d83,DNA,DNA,null,1GL ARI CDR CPH ERI,MG,, 1d83_0_8,,,
+1da4,DNA,DNA,null,CPT,,, 1da4_0_5 1da4_1_6,, 1da4_0_2_2,
+1da5,DNA,DNA,null,CPT,,, 1da5_0_5 1da5_1_6,, 1da5_0_2_2,
+1dau,DNA,DNA,null,,,, 1dau_0_12,,,
+1db6,DNA,DNA,null,AAR,,, 1db6_0_6, 1db6_0_2,, 1db6_0_6
+1ddp,DNA,DNA,null,CPT,,, 1ddp_0_4 1ddp_1_4,, 1ddp_0_2_2,
+1dgo,DNA,DNA,null,,,, 1dgo_0_7,,, 1dgo_0_4
+1dhh,DNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1dhh_0_9,,,
+1djd,DNA,DNA,null,TBT,,, 1djd_0_5 1djd_1_5,, 1djd_0_1_1,
+1dk6,DNA,DNA,null,,,, 1dk6_0_4 1dk6_1_4,,,
+1dk9,DNA,DNA,null,,,, 1dk9_0_9,,,
+1dl4,DNA,DNA,null,BZA,,, 1dl4_0_5 1dl4_1_5,, 1dl4_0_1_1,
+1drn,DNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1drn_0_9,,,
+1drr,DNA#RNA,DNA-RNA HYBRID,null,,,, 1drr_0_10,,,
+1dsa,DNA,DNA,null,DSA,,, 1dsa_0_11,,,
+1dsc,Protein#DNA,DNA/ANTIBIOTIC,null,,,, 1dsc_0_8,,,
+1dsd,Protein#DNA,DNA/ANTIBIOTIC,null,,,, 1dsd_0_2 1dsd_1_2 1dsd_2_2,, 1dsd_0_1_1 1dsd_1_1_1,
+1dsi,DNA,DNA,null,DSI,,, 1dsi_0_11,,,
+1dsm,DNA,DNA,null,DSA,,, 1dsm_0_11,,,
+1duf,DNA,DNA,null,,,, 1duf_0_12,,,
+1dxa,DNA,DNA,null,BAP,,, 1dxa_0_4 1dxa_1_4,, 1dxa_0_1_1,
+1dxn,DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1dxn_0_12,,,
+1dz5,Protein#RNA,RIBONUCLEOPROTEIN/RNA,null,,,, 1dz5_0_5 1dz5_1_4 1dz5_2_5,, 1dz5_0_7_1 1dz5_1_1_7,
+1e4p,RNA,RNA RIBOZYME,null,,,, 1e4p_0_4 1e4p_1_3,, 1e4p_0_3_3, 1e4p_0_4
+1e7j,Protein#DNA,PROTEIN/DNA,null,,,, 1e7j_0_6 1e7j_1_5,, 1e7j_0_3_1,
+1e95,RNA,RNA,null,,,, 1e95_0_6 1e95_1_6,,, 1e95_0_7 1e95_1_15
+1ebq,RNA,RNA,null,,,, 1ebq_0_4 1ebq_1_6,, 1ebq_0_2_3, 1ebq_0_4
+1ebr,RNA,RNA,null,,,, 1ebr_0_4 1ebr_1_2 1ebr_2_4, 1ebr_0_1, 1ebr_0_2_3, 1ebr_0_4
+1ebs,RNA,RNA,null,,,, 1ebs_0_4 1ebs_1_6,, 1ebs_0_2_3, 1ebs_0_4
+1ec4,DNA,DNA,null,,,, 1ec4_0_4 1ec4_1_4,, 1ec4_0_4_4,
+1ecu,DNA,DNA,null,,,, 1ecu_0_8,,, 1ecu_0_3
+1eeg,DNA,DNA,null,,,,,,,
+1eek,DNA,DNA,null,,,, 1eek_0_5 1eek_1_6,,,
+1efs,DNA#RNA,DNA-RNA HYBRID,null,,,, 1efs_0_13,,,
+1eht,RNA,RNA,null,TEP,,, 1eht_0_4 1eht_1_2 1eht_2_3,, 1eht_0_1_4 1eht_1_3_3, 1eht_0_4
+1ei2,RNA,RNA,null,NMY,,, 1ei2_0_6, 1ei2_0_1,, 1ei2_0_6
+1ejz,DNA#RNA,RNA,null,PDI,,, 1ejz_0_8,,,
+1eka,RNA,RNA,null,,,, 1eka_0_8,,,
+1ekd,RNA,RNA,null,,,, 1ekd_0_8,,,
+1ekh,DNA,DNA,null,1GL 2GL CPH DDA ERI,CO,, 1ekh_0_8,,,
+1eki,DNA,DNA,null,1GL 2GL CPH DDA ERI,CO,, 1eki_0_8,,,
+1ekw,DNA,DNA,null,,,, 1ekw_0_5 1ekw_1_5 1ekw_2_4,,,
+1ekz,Protein#RNA,cell cycle/RNA,null,,,, 1ekz_0_14,,, 1ekz_0_2
+1el2,DNA,DNA,null,,,,,,,
+1elh,RNA,RNA,null,,,, 1elh_0_10,,,
+1eln,DNA,DNA,null,,,,,,,
+1emq,DNA,DNA,null,,,,,,,
+1en1,DNA,DNA,null,,,, 1en1_0_3, 1en1_0_1,, 1en1_0_5
+1esh,RNA,RNA,null,,,, 1esh_0_5,,, 1esh_0_3
+1ess,DNA,DNA,null,ESO,,, 1ess_0_4 1ess_1_4,,,
+1esy,RNA,RNA,null,,,, 1esy_0_4 1esy_1_2,, 1esy_0_1_2, 1esy_0_4
+1etf,Protein#RNA,Viral protein/RNA,null,,,, 1etf_0_6 1etf_1_2 1etf_2_4, 1etf_0_1, 1etf_0_2_3, 1etf_0_4
+1etg,Protein#RNA,Viral protein/RNA,null,,,, 1etg_0_6 1etg_1_2 1etg_2_4, 1etg_0_1, 1etg_0_2_3, 1etg_0_4
+1eu2,DNA,DNA,null,,,, 1eu2_0_2 1eu2_1_2,, 1eu2_0_2_2 1eu2_1_2_2,
+1eu6,DNA,DNA,null,,,, 1eu6_0_2 1eu6_1_2,, 1eu6_0_2_2 1eu6_1_2_2,
+1evm,DNA,DNA,null,,,,,,,
+1evn,DNA,DNA,null,,,,,,,
+1evo,DNA,DNA,null,,,,,,,
+1ew1,DNA,DNA,null,,,,,,,
+1exl,DNA,DNA,null,,,, 1exl_0_11,,,
+1exy,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 1exy_0_5 1exy_1_3 1exy_2_4, 1exy_0_2 1exy_1_2,, 1exy_0_4
+1ezn,DNA,DNA,null,,,, 1ezn_0_7 1ezn_1_4 1ezn_2_4,,, 1ezn_0_2 1ezn_1_2
+1f3s,DNA,DNA,null,,,,,,, 1f3s_0_2 1f3s_1_2
+1f4s,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 1f4s_0_10,,,
+1f5e,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 1f5e_0_10,,,
+1f5g,RNA,RNA,null,,,, 1f5g_0_3 1f5g_1_2 1f5g_2_3,, 1f5g_0_1_1 1f5g_1_1_1,
+1f5h,RNA,RNA,null,,,, 1f5h_0_3 1f5h_1_2 1f5h_2_3,, 1f5h_0_1_1 1f5h_1_1_1,
+1f5u,RNA,RNA,null,,,, 1f5u_0_7 1f5u_1_2 1f5u_2_7,,, 1f5u_0_4 1f5u_1_4
+1f6u,Protein#RNA,STRUCTURAL PROTEIN/RNA,null,,ZN,, 1f6u_0_4 1f6u_1_2,, 1f6u_0_1_2, 1f6u_0_4
+1f6x,RNA,RNA,null,,,, 1f6x_0_5 1f6x_1_6, 1f6x_0_1,, 1f6x_0_4
+1f6z,RNA,RNA,null,,,, 1f6z_0_6 1f6z_1_5, 1f6z_0_1,, 1f6z_0_4
+1f78,RNA,RNA,null,,NCO,, 1f78_0_5 1f78_1_6, 1f78_0_1,, 1f78_0_4
+1f79,RNA,RNA,null,,NCO,, 1f79_0_6 1f79_1_5, 1f79_0_1,, 1f79_0_4
+1f7f,RNA,RNA,null,,,, 1f7f_0_5 1f7f_1_6, 1f7f_0_1,, 1f7f_0_4
+1f7g,RNA,RNA,null,,,, 1f7g_0_6 1f7g_1_5, 1f7g_0_1,, 1f7g_0_4
+1f7h,RNA,RNA,null,,NCO,, 1f7h_0_4 1f7h_1_6, 1f7h_0_1,, 1f7h_0_4
+1f7i,RNA,RNA,null,,NCO,, 1f7i_0_5 1f7i_1_5, 1f7i_0_1,, 1f7i_0_4
+1f84,RNA,RNA,null,,,, 1f84_0_3 1f84_1_3,, 1f84_0_5_4, 1f84_0_6
+1f85,RNA,RNA,null,,,, 1f85_0_5,,, 1f85_0_4
+1f9l,RNA,RNA,null,,,, 1f9l_0_4 1f9l_1_3,, 1f9l_0_2_2, 1f9l_0_4
+1fc8,DNA/RNA Hybrid,RNA/DNA CHIMERA,null,,,, 1fc8_0_4,,, 1fc8_0_4
+1feq,RNA,RNA,null,,,, 1feq_0_5,,, 1feq_0_7
+1fhk,RNA,RNA,null,,,, 1fhk_0_3,,, 1fhk_0_8
+1fj5,DNA,DNA,null,TAX,,, 1fj5_0_11,,,
+1fja,Protein#DNA,DNA/ANTIBIOTIC,null,,,, 1fja_0_6,,,
+1fjb,DNA,DNA,null,,,, 1fjb_0_11,,,
+1fje,Protein#RNA,STRUCTURAL PROTEIN/RNA,null,,,, 1fje_0_4,,, 1fje_0_14
+1fky,DNA,DNA,null,,,, 1fky_0_5 1fky_1_5,, 1fky_0_1_1,
+1fkz,DNA,DNA,null,,,, 1fkz_0_5 1fkz_1_5,, 1fkz_0_1_1,
+1fl8,RNA,RNA,null,,,, 1fl8_0_4,,, 1fl8_0_9
+1fmn,RNA,RNA,null,FMN,,, 1fmn_0_7 1fmn_1_3,, 1fmn_0_6_5, 1fmn_0_4
+1fnx,Protein#RNA,immune system/RNA,null,,,,,,,
+1fqp,DNA,DNA,null,,,,,,,
+1fqz,RNA,RNA,null,,,, 1fqz_0_3 1fqz_1_3,, 1fqz_0_5_4, 1fqz_0_6
+1fv7,DNA,DNA,null,,,, 1fv7_0_10,,,
+1fv8,DNA,DNA,null,,,, 1fv8_0_4,,, 1fv8_0_3
+1fyi,DNA,DNA,null,,,, 1fyi_0_5 1fyi_1_5,, 1fyi_0_1_1,
+1fyo,RNA,RNA,null,,,, 1fyo_0_4 1fyo_1_4,, 1fyo_0_1_1 1fyo_1_1_2, 1fyo_0_4
+1fyp,RNA,RNA,null,PAR,,, 1fyp_0_4 1fyp_1_4,, 1fyp_0_1_1 1fyp_1_1_2, 1fyp_0_4
+1fyy,DNA,DNA,null,BAP,,, 1fyy_0_12,,,
+1fzl,DNA,DNA,null,,,, 1fzl_0_8 1fzl_1_4,,,
+1fzs,DNA,DNA,null,,,, 1fzs_0_8,,,
+1fzx,DNA,DNA,null,,,, 1fzx_0_12,,,
+1g14,DNA,DNA,null,,,, 1g14_0_12,,,
+1g1n,DNA,DNA,null,PE6,,, 1g1n_0_5 1g1n_1_5,,,
+1g22,DNA,DNA,null,,,,,,,
+1g3a,RNA,RNA,null,,,, 1g3a_0_6,,,
+1g4d,Protein#DNA,Viral protein/DNA,null,,,, 1g4d_0_16,,,
+1g5d,DNA,DNA,null,,,, 1g5d_0_6 1g5d_1_6,,,
+1g5e,DNA,DNA,null,,,, 1g5e_0_6 1g5e_1_6,,,
+1g5k,DNA,DNA,null,PGA,,, 1g5k_0_6 1g5k_1_6,,,
+1g5l,DNA,DNA,null,BLB PEO PGA,3CO,O, 1g5l_0_6 1g5l_1_6,,,
+1g70,Protein#RNA,VIRAL PROTEIN/RNA,null,,,, 1g70_0_6 1g70_1_2 1g70_2_3, 1g70_0_1, 1g70_0_2_3, 1g70_0_4
+1g7z,DNA,DNA,null,,,, 1g7z_0_8,,,
+1g80,DNA,DNA,null,,,, 1g80_0_8,,,
+1gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 1gat_0_8,,,
+1gau,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1gau_0_8,,,
+1gcc,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1gcc_0_11,,,
+1gip,DNA,DNA,null,,,, 1gip_0_12,,,
+1giz,DNA,DNA,null,,,, 1giz_0_6 1giz_1_6,,,
+1gj0,DNA,DNA,null,,,, 1gj0_0_6 1gj0_1_6,,,
+1gj1,DNA,DNA,null,PGA,,, 1gj1_0_6 1gj1_1_6,,,
+1gj2,DNA,DNA,null,BLB PEO PGA,3CO,O, 1gj2_0_6 1gj2_1_6,,,
+1gn7,DNA,DNA,null,,,, 1gn7_0_8,,, 1gn7_0_4
+1gtc,DNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1gtc_0_8,,,
+1guc,RNA,RNA,null,,,, 1guc_0_8,,,
+1gv6,DNA#DNA/RNA Hybrid,LOCKED NUCLEIC ACID,null,,,, 1gv6_0_10,,,
+1h0q,RNA,DNA-RNA HYBRID,null,,,, 1h0q_0_9,,,
+1hg9,DNA#RNA,DNA-RNA HYBRID,null,,,, 1hg9_0_9,,,
+1hhw,RNA#DNA/RNA Hybrid,ANTISENSE,null,,,, 1hhw_0_9,,,
+1hhx,RNA#DNA/RNA Hybrid,ANTISENSE,null,,,, 1hhx_0_9,,,
+1hji,Protein#RNA,BACTERIOPHAGE HK022,null,,,, 1hji_0_5,,, 1hji_0_5
+1hlx,RNA,RNA,null,,,, 1hlx_0_8,,, 1hlx_0_4
+1hm1,DNA,DNA,null,,,, 1hm1_0_4 1hm1_1_5,,,
+1ho6,DNA/RNA Hybrid,"DNA, RNA",null,,,, 1ho6_0_4,,, 1ho6_0_4
+1hoq,DNA/RNA Hybrid,"DNA, RNA",null,,,, 1hoq_0_4,,, 1hoq_0_4
+1hry,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1hry_0_8,,,
+1hrz,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1hrz_0_8,,,
+1hs1,RNA,RNA,null,,,, 1hs1_0_3,,, 1hs1_0_6
+1hs2,RNA,RNA,null,,,, 1hs2_0_3,,, 1hs2_0_6
+1hs3,RNA,RNA,null,,,, 1hs3_0_3,,, 1hs3_0_6
+1hs4,RNA,RNA,null,,,, 1hs4_0_3,,, 1hs4_0_6
+1hs8,RNA,RNA,null,,,, 1hs8_0_3,,, 1hs8_0_6
+1ht4,DNA,DNA,null,,,, 1ht4_0_5 1ht4_1_6,,,
+1ht7,DNA,DNA,null,,,, 1ht7_0_6 1ht7_1_5,,,
+1hvn,Protein#DNA,Viral protein/DNA,null,,ZN,,,,,
+1hvo,Protein#DNA,Viral protein/DNA,null,,ZN,,,,,
+1hwq,RNA,RNA,null,,,, 1hwq_0_5 1hwq_1_4,, 1hwq_0_3_3, 1hwq_0_6
+1hwv,DNA,DNA,null,BPI,,, 1hwv_0_11,,,
+1hx4,DNA,DNA,null,BPJ,,, 1hx4_0_11,,,
+1hz0,DNA,DNA,null,PIQ,,, 1hz0_0_5 1hz0_1_5,, 1hz0_0_1_1,
+1hz2,DNA,DNA,null,TME,,,,, 1hz2_0_2_2,
+1i34,DNA,DNA,null,,,,,,,
+1i3x,RNA,RNA,null,,,, 1i3x_0_7,,, 1i3x_0_5
+1i3y,RNA,RNA,null,,,, 1i3y_0_7,,, 1i3y_0_5
+1i46,RNA,RNA,null,,,, 1i46_0_5,,, 1i46_0_3
+1i4b,RNA,RNA,null,,,, 1i4b_0_5,,, 1i4b_0_3
+1i4c,RNA,RNA,null,,,, 1i4c_0_5,,, 1i4c_0_3
+1i5v,DNA,DNA,null,PPZ,,, 1i5v_0_5,,,
+1i7v,DNA,DNA,null,BZA,,, 1i7v_0_11,,,
+1i9f,Protein#RNA,DE-NOVO PROTEIN/RNA,null,,,, 1i9f_0_6 1i9f_1_2 1i9f_2_4, 1i9f_0_1, 1i9f_0_2_3, 1i9f_0_4
+1i9k,RNA,RNA,null,,,,,,,
+1idv,RNA,RNA,null,,,, 1idv_0_3,,, 1idv_0_4
+1idx,DNA,DNA,null,,,, 1idx_0_7,,, 1idx_0_4
+1ie1,RNA,RNA,null,,,, 1ie1_0_4,,, 1ie1_0_14
+1ie2,RNA,RNA,null,,,, 1ie2_0_4 1ie2_1_2,, 1ie2_0_4_4, 1ie2_0_2
+1iek,DNA,DNA,null,OCT,,, 1iek_0_10,,,
+1iey,DNA,DNA,null,OCT,,, 1iey_0_10,,,
+1ig4,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1ig4_0_12,,,
+1ii1,DNA,DNA,null,,,, 1ii1_0_7,,, 1ii1_0_4
+1ik1,RNA,RNA,null,,,, 1ik1_0_5,,, 1ik1_0_3
+1ikd,RNA,RNA,null,,,, 1ikd_0_7,,, 1ikd_0_4
+1ir5,DNA,DNA,null,,,, 1ir5_0_15,,,
+1iv6,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1iv6_0_13,,,
+1j46,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1j46_0_14,,,
+1j47,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1j47_0_14,,,
+1j4w,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+1j4y,RNA,RNA,null,,,, 1j4y_0_6,,, 1j4y_0_5
+1j5k,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+1j5n,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1j5n_0_15,,,
+1j9n,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1j9n_0_6,,,
+1jdg,DNA,DNA,null,BPA,,, 1jdg_0_5 1jdg_1_5,, 1jdg_0_1_1,
+1jhi,DNA,DNA,null,HEH,,, 1jhi_0_6,,,
+1jjp,DNA,DNA,null,,,,,,,
+1jo1,DNA,DNA,null,DAJ,,, 1jo1_0_12,,,
+1jo7,RNA,RNA,null,,,, 1jo7_0_2 1jo7_1_4 1jo7_2_3,, 1jo7_0_1_1 1jo7_1_1_1 1jo7_2_2_1, 1jo7_0_4
+1jox,RNA,RNA,null,,,, 1jox_0_5 1jox_1_2, 1jox_0_1,, 1jox_0_6
+1jp0,RNA,RNA,null,,,, 1jp0_0_5 1jp0_1_2, 1jp0_0_1,, 1jp0_0_6
+1jrv,DNA,DNA,null,,,, 1jrv_0_6 1jrv_1_6, 1jrv_0_5,,
+1jrw,DNA,DNA,null,,,, 1jrw_0_5 1jrw_1_6, 1jrw_0_5,,
+1js5,DNA,DNA,null,,,, 1js5_0_6 1js5_1_5, 1js5_0_5,,
+1js7,DNA,DNA,null,,,, 1js7_0_6 1js7_1_5, 1js7_0_5,,
+1jtj,RNA,RNA,null,,,, 1jtj_0_7,,, 1jtj_0_9
+1jtw,RNA,RNA,null,,NA,, 1jtw_0_5,,, 1jtw_0_4
+1ju0,DNA,DNA,null,,,, 1ju0_0_7 1ju0_1_4 1ju0_2_7,,, 1ju0_0_9 1ju0_1_9
+1ju1,RNA,RNA,null,,,, 1ju1_0_7 1ju1_1_6 1ju1_2_7,, 1ju1_0_2_1 1ju1_1_1_2,
+1ju7,RNA,RNA,null,,,, 1ju7_0_6,,, 1ju7_0_4
+1jua,DNA,DNA,null,,,, 1jua_0_7 1jua_1_6 1jua_2_7,,, 1jua_0_9 1jua_1_9
+1jur,RNA,RNA,null,,,, 1jur_0_3 1jur_1_5, 1jur_0_2,, 1jur_0_4
+1juu,DNA,DNA,null,,,,,,,
+1jvc,DNA,DNA,null,,,,,, 1jvc_0_1_1 1jvc_1_1_1 1jvc_2_1_1,
+1jve,DNA,DNA,null,,,, 1jve_0_12,,, 1jve_0_3
+1jwc,RNA,RNA,null,,,, 1jwc_0_6,,, 1jwc_0_4
+1jzc,RNA,RNA,null,,,, 1jzc_0_5,,, 1jzc_0_3
+1k1g,Protein#RNA,GENE REGULATION/RNA,null,,,,,,,
+1k1h,DNA,DNA,null,,,, 1k1h_0_7,,,
+1k1r,DNA,DNA,null,,,, 1k1r_0_7,,,
+1k29,DNA,DNA,null,,,, 1k29_0_5 1k29_1_6, 1k29_0_2,,
+1k2g,RNA,RNA,null,,,, 1k2g_0_3 1k2g_1_2, 1k2g_0_1,, 1k2g_0_4 1k2g_1_4
+1k2j,DNA,DNA,null,,,, 1k2j_0_6,,,
+1k2k,DNA,DNA,null,,,, 1k2k_0_6,,,
+1k4a,RNA,RNA,null,,,, 1k4a_0_5,,, 1k4a_0_4
+1k4b,RNA,RNA,null,,,, 1k4b_0_5,,, 1k4b_0_4
+1k4x,DNA,DNA,null,,,,,,,
+1k5e,DNA,DNA,null,,,, 1k5e_0_11,,,
+1k5f,DNA,DNA,null,,,, 1k5f_0_11,,,
+1k5i,RNA,RNA,null,,,, 1k5i_0_9,,, 1k5i_0_5
+1k6g,RNA,RNA,null,,,, 1k6g_0_9,,, 1k6g_0_4
+1k6h,RNA,RNA,null,,,, 1k6h_0_9,,, 1k6h_0_4
+1k8j,DNA,DNA,null,,,, 1k8j_0_14,,,
+1k8l,DNA,DNA,null,,,, 1k8l_0_14,,,
+1k8n,DNA,DNA,null,,,, 1k8n_0_14,,,
+1k8s,RNA,RNA,null,,,, 1k8s_0_5 1k8s_1_7, 1k8s_0_1,,
+1k9h,DNA,DNA,null,,,, 1k9h_0_14,,,
+1k9l,DNA,DNA,null,,,, 1k9l_0_14,,,
+1kaj,RNA,RNA,null,,,, 1kaj_0_5 1kaj_1_4,,, 1kaj_0_9 1kaj_1_15
+1kb1,DNA,DNA,null,,,, 1kb1_0_11,,,
+1kbd,DNA,DNA,null,,,, 1kbd_0_16,,,
+1kbm,DNA,DNA,null,,,, 1kbm_0_11,,,
+1kis,RNA,RNA,null,,,, 1kis_0_5 1kis_1_2 1kis_2_4 1kis_3_5,,, 1kis_0_6 1kis_1_6
+1kka,RNA,RNA,null,,,, 1kka_0_6,,, 1kka_0_5
+1kks,RNA,RNA,null,,,, 1kks_0_6,, 1kks_0_2_2, 1kks_0_4
+1kkv,DNA,DNA,null,,,, 1kkv_0_10,,,
+1kkw,DNA,DNA,null,,,, 1kkw_0_10,,,
+1koc,RNA,RNA,null,ARG,,, 1koc_0_2 1koc_1_2,, 1koc_0_3_1 1koc_1_2_7,
+1kod,RNA,RNA,null,CIR,,, 1kod_0_2 1kod_1_2 1kod_2_2,, 1kod_0_3_1 1kod_1_2_7,
+1kos,RNA,RNA,null,,,, 1kos_0_5,,, 1kos_0_7
+1kp7,RNA,RNA,null,,,, 1kp7_0_4 1kp7_1_2 1kp7_2_3,, 1kp7_0_1_1 1kp7_1_4_2, 1kp7_0_4
+1kpd,RNA,RNA,null,,,, 1kpd_0_5 1kpd_1_5,,, 1kpd_0_9 1kpd_1_13
+1kpy,RNA,RNA,null,,,, 1kpy_0_5 1kpy_1_3,,, 1kpy_0_6 1kpy_1_14
+1kpz,RNA,RNA,null,,,, 1kpz_0_5 1kpz_1_3,,, 1kpz_0_6 1kpz_1_14
+1kqq,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1kqq_0_15,,,
+1kr8,DNA,DNA,null,,,, 1kr8_0_2,,, 1kr8_0_3
+1ksb,DNA,DNA,null,CPT,,, 1ksb_0_9,,,
+1kse,DNA,DNA,null,OXI,,, 1kse_0_4,,,
+1kvh,DNA,DNA,null,NCS,,, 1kvh_0_5 1kvh_1_3, 1kvh_0_2,,
+1kxs,DNA,DNA,null,,,, 1kxs_0_7 1kxs_1_6,,,
+1l0r,DNA,DNA,null,NGP,NA,, 1l0r_0_2 1l0r_1_2,,, 1l0r_0_3 1l0r_1_3
+1l1c,Protein#RNA,TRANSCRIPTION/RNA,null,,,, 1l1c_0_2 1l1c_1_4 1l1c_2_4, 1l1c_0_2, 1l1c_0_1_2, 1l1c_0_4
+1l1m,Protein#DNA,TRANSCRIPTION REGULATOR/DNA,null,,,, 1l1m_0_23,,,
+1l1v,Protein#DNA,DNA/ANTIBIOTIC,null,,,,,, 1l1v_0_1_1, 1l1v_0_3
+1l1w,RNA,RNA,null,,,, 1l1w_0_4 1l1w_1_6,, 1l1w_0_2_2, 1l1w_0_4
+1l3m,DNA/RNA Hybrid,DNA/RNA,null,,,, 1l3m_0_12,,,
+1la8,DNA,DNA,null,,,, 1la8_0_5,,, 1la8_0_3
+1lae,DNA,DNA,null,,,, 1lae_0_5,,, 1lae_0_3
+1lai,DNA,DNA,null,,,, 1lai_0_13,,,
+1laq,DNA,DNA,null,,,, 1laq_0_6 1laq_1_6,, 1laq_0_1_1,
+1las,DNA,DNA,null,,,, 1las_0_6 1las_1_6,, 1las_0_1_1,
+1lc6,RNA,RNA,null,,,, 1lc6_0_5 1lc6_1_3,, 1lc6_0_1_2, 1lc6_0_5
+1lcc,Protein#DNA,GENE REGULATION/DNA,null,,NA,, 1lcc_0_11,,,
+1lcd,Protein#DNA,GENE REGULATION/DNA,null,,NA,, 1lcd_0_11,,,
+1ldz,RNA,RNA,null,,,, 1ldz_0_5 1ldz_1_5,, 1ldz_0_4_2, 1ldz_0_4
+1lej,DNA,DNA,null,P11,,, 1lej_0_13,,,
+1lfu,Protein#DNA,TRANSCRIPTION,null,,,, 1lfu_0_12,,,
+1lmv,RNA,RNA,null,,,, 1lmv_0_5 1lmv_1_4, 1lmv_0_1,,
+1lo1,Protein#DNA,HORMONE/GROWTH FACTOR RECEPTOR/DNA,null,,ZN,, 1lo1_0_13,,,
+1lpw,RNA,RNA,null,,,, 1lpw_0_4 1lpw_1_4,, 1lpw_0_1_2,
+1luh,DNA,DNA,null,TME,,, 1luh_0_8,,,
+1luu,RNA,RNA,null,,,, 1luu_0_5,,, 1luu_0_7
+1lux,RNA,RNA,null,,,, 1lux_0_5,,, 1lux_0_7
+1lvj,RNA,RNA,null,PMZ,,, 1lvj_0_7 1lvj_1_4, 1lvj_0_3,, 1lvj_0_6
+1lvs,DNA,DNA,null,,,,,,,
+1lwa,DNA,DNA,null,,,, 1lwa_0_15,,,
+1m5l,RNA,RNA,null,,,, 1m5l_0_4 1m5l_1_4 1m5l_2_4,, 1m5l_0_1_3 1m5l_1_4_2, 1m5l_0_4
+1m6a,DNA,DNA,null,,,,,,,
+1m82,RNA,RNA,null,,,, 1m82_0_6 1m82_1_4, 1m82_0_1,, 1m82_0_4
+1me0,DNA/RNA Hybrid,"DNA, RNA",null,,,, 1me0_0_4,,,
+1me1,RNA,RNA,null,,,, 1me1_0_4,,,
+1mfj,RNA,RNA,null,,,, 1mfj_0_7,,, 1mfj_0_4
+1mfk,RNA,RNA,null,,,, 1mfk_0_6 1mfk_1_3, 1mfk_0_1,, 1mfk_0_4
+1mfy,RNA,RNA,null,,,, 1mfy_0_4 1mfy_1_4, 1mfy_0_1, 1mfy_0_2_2, 1mfy_0_4
+1mis,RNA,RNA,null,,,, 1mis_0_3 1mis_1_3,, 1mis_0_2_2,
+1mk6,DNA,DNA,null,,,, 1mk6_0_5 1mk6_1_4,, 1mk6_0_1_1,
+1mkl,DNA,DNA,null,,,, 1mkl_0_10,,,
+1mnb,Protein#RNA,Viral protein/RNA,null,,,, 1mnb_0_6 1mnb_1_4, 1mnb_0_1 1mnb_1_1,, 1mnb_0_4
+1mnx,RNA,RNA,null,,,, 1mnx_0_4 1mnx_1_8,, 1mnx_0_7_7, 1mnx_0_4
+1mp7,DNA,DNA,null,NCG,,, 1mp7_0_2, 1mp7_0_1,, 1mp7_0_3
+1mse,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1mse_0_11,,,
+1msf,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1msf_0_11,,,
+1mt4,RNA,RNA,null,,,, 1mt4_0_8,,, 1mt4_0_8
+1mtg,DNA,DNA,null,BLM PEO,3CO,, 1mtg_0_6,,,
+1muv,RNA,RNA,null,,,, 1muv_0_3 1muv_1_3,, 1muv_0_2_2,
+1mv1,RNA,RNA,null,,,, 1mv1_0_3 1mv1_1_3,, 1mv1_0_2_2,
+1mv2,RNA,RNA,null,,,, 1mv2_0_3 1mv2_1_3,, 1mv2_0_2_2,
+1mv6,RNA,RNA,null,,,, 1mv6_0_3 1mv6_1_3,, 1mv6_0_2_2,
+1mwg,RNA,RNA,null,,,, 1mwg_0_3 1mwg_1_3,, 1mwg_0_2_2,
+1mxj,DNA,DNA,null,BZR,,, 1mxj_0_11,,,
+1mxk,DNA,DNA,null,BLM PEO,3CO,, 1mxk_0_10,,,
+1my9,RNA,RNA,null,,,,,,,
+1myq,DNA,DNA,null,,,,,,,
+1n0k,DNA,DNA,null,PGA,,, 1n0k_0_5 1n0k_1_6,,,
+1n0o,DNA,DNA,null,PGA,,, 1n0o_0_6 1n0o_1_6,,,
+1n14,DNA,DNA,null,,,, 1n14_0_13,,,
+1n17,DNA,DNA,null,,,, 1n17_0_13,,,
+1n1k,DNA,DNA,null,,,, 1n1k_0_6,,,
+1n1n,DNA,DNA,null,AFN,,, 1n1n_0_4 1n1n_1_5,, 1n1n_0_1_1,
+1n2w,DNA,DNA,null,,,, 1n2w_0_3 1n2w_1_4 1n2w_2_3,, 1n2w_0_1_1 1n2w_1_1_1,
+1n37,DNA,DNA,null,RSD,,, 1n37_0_7,,,
+1n4b,DNA,DNA,null,,,, 1n4b_0_3 1n4b_1_3,, 1n4b_0_3_3,
+1n53,RNA,RNA,null,,,, 1n53_0_4 1n53_1_4,, 1n53_0_8_1,
+1n66,RNA,RNA,null,,,, 1n66_0_4 1n66_1_3,, 1n66_0_2_2, 1n66_0_4
+1n8c,DNA,DNA,null,TBC,,, 1n8c_0_11,,,
+1n8x,RNA,RNA,null,,,, 1n8x_0_7 1n8x_1_7,, 1n8x_0_1_3, 1n8x_0_4
+1n96,DNA,DNA,null,,,, 1n96_0_2 1n96_1_2,, 1n96_0_2_2 1n96_1_2_2,
+1na2,RNA,RNA,null,,,, 1na2_0_6 1na2_1_2,, 1na2_0_4_4, 1na2_0_5
+1naj,DNA,DNA,null,,,, 1naj_0_12,,,
+1nao,RNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1nao_0_9,,,
+1nbk,RNA,RNA,null,GND,,, 1nbk_0_6 1nbk_1_4 1nbk_2_3, 1nbk_0_2 1nbk_1_2,, 1nbk_0_4
+1nbr,RNA,RNA,null,,,, 1nbr_0_6 1nbr_1_5, 1nbr_0_1 1nbr_1_1,, 1nbr_0_3
+1nc0,RNA,RNA,null,,,, 1nc0_0_6 1nc0_1_2, 1nc0_0_1,, 1nc0_0_7
+1nem,RNA,RNA,null,BDG BDR IDG NEB,,, 1nem_0_9,,, 1nem_0_5
+1nev,DNA,DNA,null,,,, 1nev_0_10,,,
+1ngo,DNA,DNA,null,,,, 1ngo_0_11,,, 1ngo_0_5
+1ngu,DNA,DNA,null,,,, 1ngu_0_4 1ngu_1_5,, 1ngu_0_2_2, 1ngu_0_5
+1nk2,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1nk2_0_15,,,
+1nk3,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 1nk3_0_14,,,
+1noq,DNA,DNA,null,,,, 1noq_0_2 1noq_1_2,, 1noq_0_1_1,
+1np5,DNA,DNA,null,,,,,,,
+1np9,DNA,DNA,null,,,,,,,
+1ntq,DNA#RNA,DNA/RNA,null,,,, 1ntq_0_7,,,
+1nts,DNA#RNA,RNA/DNA,null,,,, 1nts_0_2,,,
+1ntt,DNA#RNA,RNA/DNA,null,,,, 1ntt_0_2,,,
+1nxr,DNA#RNA,DNA-RNA HYBRID,null,,,, 1nxr_0_8,,,
+1nyb,Protein#RNA,TRANSCRIPTION/RNA,null,,,, 1nyb_0_9,,, 1nyb_0_6
+1nyd,DNA,DNA,null,,,, 1nyd_0_2 1nyd_1_2,,,
+1nz1,RNA,RNA,null,,,, 1nz1_0_5 1nz1_1_3,, 1nz1_0_1_2, 1nz1_0_5
+1nzm,DNA,DNA,null,LG1,K,,,,,
+1o15,RNA,RNA,null,TEP,,, 1o15_0_4 1o15_1_2 1o15_2_3,, 1o15_0_1_4 1o15_1_3_3, 1o15_0_4
+1o4x,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1o4x_0_19,,,
+1oci,DNA,DNA,null,,,, 1oci_0_9,,,
+1oka,DNA#DNA/RNA Hybrid,DNA-RNA HYBRID,null,,,, 1oka_0_9,,,
+1okf,DNA#RNA,DNA-RNA HYBRID,null,,,, 1okf_0_9,,,
+1old,DNA,DNA,null,ARM,,, 1old_0_7,, 1old_0_2_1, 1old_0_5
+1on5,DNA,DNA,null,CHD,,, 1on5_0_6,,,
+1onm,DNA,DNA,null,,,, 1onm_0_5 1onm_1_5,, 1onm_0_1_1,
+1oo7,DNA#RNA,DNA-RNA HYBRID,null,,,, 1oo7_0_3 1oo7_1_2,,,
+1opq,DNA,DNA,null,,,, 1opq_0_12,,,
+1oq0,RNA,RNA,null,,,, 1oq0_0_6,,, 1oq0_0_3
+1oq2,DNA,DNA,null,,,, 1oq2_0_6 1oq2_1_5,, 1oq2_0_1_1,
+1osl,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1osl_0_18,,,
+1osr,DNA,DNA,null,,,, 1osr_0_4 1osr_1_5,,,
+1osw,RNA,RNA,null,,,, 1osw_0_4 1osw_1_3,, 1osw_0_1_3, 1osw_0_4
+1ovf,Protein#DNA,DNA/ANTIBIOTIC,null,,,, 1ovf_0_4,,, 1ovf_0_3
+1ow9,RNA,RNA,null,,,, 1ow9_0_4 1ow9_1_3,, 1ow9_0_3_2, 1ow9_0_4
+1oz8,DNA,DNA,null,,,,,,,
+1p0u,DNA,DNA,null,,,, 1p0u_0_5,,, 1p0u_0_3
+1p3x,DNA,DNA,null,DC DCM PDU,,, 1p3x_0_8,,,
+1p5m,RNA,RNA,null,,,, 1p5m_0_5 1p5m_1_4 1p5m_2_4 1p5m_3_3 1p5m_4_2, 1p5m_0_1 1p5m_1_1 1p5m_2_5, 1p5m_0_1_1 1p5m_1_2_2, 1p5m_0_4
+1p5n,RNA,RNA,null,,,, 1p5n_0_4 1p5n_1_5,, 1p5n_0_4_5, 1p5n_0_7
+1p5o,RNA,RNA,null,,,, 1p5o_0_5 1p5o_1_4 1p5o_2_4 1p5o_3_3 1p5o_4_2 1p5o_5_5, 1p5o_0_1 1p5o_1_1 1p5o_2_5, 1p5o_0_1_1 1p5o_1_2_2 1p5o_2_4_5, 1p5o_0_7
+1p5p,RNA,RNA,null,,,, 1p5p_0_5 1p5p_1_4 1p5p_2_4 1p5p_3_3 1p5p_4_2 1p5p_5_5, 1p5p_0_1 1p5p_1_1 1p5p_2_5, 1p5p_0_1_1 1p5p_1_2_2 1p5p_2_4_5, 1p5p_0_7
+1p96,DNA,DNA,null,DDI,,, 1p96_0_6 1p96_1_6, 1p96_0_2,,
+1pbl,RNA,RNA,null,,,, 1pbl_0_6,,,
+1pbm,RNA,RNA,null,,,, 1pbm_0_6,,,
+1pbr,RNA,RNA,null,BDR CYY IDG PA1,,, 1pbr_0_4 1pbr_1_4,, 1pbr_0_1_1 1pbr_1_1_2, 1pbr_0_4
+1pdt,DNA,PEPTIDE NUCLEIC ACID/DNA,null,,,,,,,
+1pg9,DNA,DNA,null,1PT,,, 1pg9_0_12,,,
+1pgc,DNA,DNA,null,1PT,,, 1pgc_0_12,,,
+1pib,DNA,DNA,null,,,, 1pib_0_10,,,
+1pik,DNA,DNA,null,DAG DLF DPA MAT MTC TMR,,, 1pik_0_8,,,
+1pjy,RNA,RNA,null,,,, 1pjy_0_9,,, 1pjy_0_4
+1pqq,DNA,DNA,null,CYE,,, 1pqq_0_11,,,
+1pqt,DNA,DNA,null,,,, 1pqt_0_2,,, 1pqt_0_3
+1pyj,DNA,DNA,null,,,, 1pyj_0_11,,,
+1q2t,DNA,DNA,null,,,,,,,
+1q75,RNA,RNA,null,,,, 1q75_0_5,,, 1q75_0_5
+1q8n,RNA,RNA,null,MGR,,, 1q8n_0_6 1q8n_1_2 1q8n_2_5, 1q8n_0_3, 1q8n_0_1_4, 1q8n_0_4
+1qby,DNA,DNA,null,BZA,,, 1qby_0_11,,,
+1qc8,RNA,RNA,null,,,, 1qc8_0_6, 1qc8_0_1,, 1qc8_0_6
+1qch,DNA,DNA,null,NGM,NA,, 1qch_0_6,,,
+1qd3,RNA,RNA,null,BDG CYY IDG RIB,,, 1qd3_0_6 1qd3_1_4, 1qd3_0_3,, 1qd3_0_6
+1qdf,DNA,DNA,null,,,,,,,
+1qdh,DNA,DNA,null,,MN,,,,,
+1qdi,DNA,DNA,null,,,,,,,
+1qdk,DNA,DNA,null,,MN,,,,,
+1qe7,DNA,DNA,null,,,, 1qe7_0_7,,, 1qe7_0_4
+1qes,RNA,RNA,null,,,, 1qes_0_8,,,
+1qet,RNA,RNA,null,,,, 1qet_0_8,,,
+1qfq,Protein#RNA,TRANSCRIPTION/RNA,null,,,, 1qfq_0_5,,, 1qfq_0_5
+1qkg,DNA,DNA,null,,,, 1qkg_0_5 1qkg_1_4,,,
+1ql5,DNA,DNA,null,,,, 1ql5_0_5 1ql5_1_4,, 1ql5_0_1_1,
+1qms,DNA,DNA,null,CCI NBU,,, 1qms_0_12,,,
+1qsk,DNA,DNA,null,,,, 1qsk_0_5 1qsk_1_5, 1qsk_0_5,,
+1qsx,DNA,DNA,null,HT,NA,, 1qsx_0_12,,,
+1qwa,RNA,RNA,null,,,, 1qwa_0_6 1qwa_1_2, 1qwa_0_1,, 1qwa_0_4
+1qwb,RNA,RNA,null,,,, 1qwb_0_6,,, 1qwb_0_14
+1qxb,DNA,DNA,null,BDR,,, 1qxb_0_4 1qxb_1_4 1qxb_2_4,,,
+1r2l,DNA,DNA,null,,,,,,,
+1r2p,RNA,RNA,null,,,, 1r2p_0_7 1r2p_1_5,, 1r2p_0_2_4, 1r2p_0_4
+1r3x,DNA#RNA,DNA-RNA HYBRID,null,,,, 1r3x_0_8,,,
+1r4d,DNA,DNA,null,,,, 1r4d_0_10,,,
+1r4e,DNA,DNA,null,DDI,,, 1r4e_0_6 1r4e_1_6, 1r4e_0_2,,
+1r4h,RNA,RNA,null,,,, 1r4h_0_3,,, 1r4h_0_2
+1r7w,RNA,RNA,null,,,, 1r7w_0_7 1r7w_1_5, 1r7w_0_6,, 1r7w_0_4
+1r7z,RNA,RNA,null,,,, 1r7z_0_7 1r7z_1_5, 1r7z_0_6,, 1r7z_0_4
+1rau,RNA,RNA,null,,,,,,,
+1raw,RNA,RNA,null,AMP,,, 1raw_0_6 1raw_1_4,, 1raw_0_11_1, 1raw_0_4
+1rcs,Protein#DNA,TRANSCRIPTION/DNA,null,TRP,,, 1rcs_0_20,,,
+1rde,DNA,DNA,null,,,,,,,
+1rfr,RNA,RNA,null,,,, 1rfr_0_5 1rfr_1_5,, 1rfr_0_3_3, 1rfr_0_4
+1rgo,Protein#RNA,RNA BINDING PROTEIN,null,,ZN,,,,,
+1rht,RNA,RNA,null,,,, 1rht_0_6 1rht_1_2, 1rht_0_1,, 1rht_0_4
+1rkj,Protein#RNA,Transcription/RNA,null,,,, 1rkj_0_6, 1rkj_0_1,, 1rkj_0_6
+1rme,DNA,DNA,null,,,,,,,
+1rmx,DNA,DNA,null,AIK,,, 1rmx_0_10,,,
+1rn9,DNA,DNA,null,,,, 1rn9_0_10,,,
+1rng,RNA,RNA,null,,,, 1rng_0_5,,, 1rng_0_2
+1rnk,RNA,RNA,null,,,, 1rnk_0_5 1rnk_1_6,,, 1rnk_0_9 1rnk_1_14
+1roq,RNA,RNA,null,,,, 1roq_0_5,,, 1roq_0_4
+1rrd,DNA#RNA,DNA-RNA HYBRID,null,,,, 1rrd_0_10,,,
+1rrr,RNA,RNA,null,,,, 1rrr_0_10,,,
+1rvh,DNA,DNA,null,,,, 1rvh_0_12,,,
+1rvi,DNA,DNA,null,,,, 1rvi_0_12,,,
+1s0t,DNA,DNA,null,,,, 1s0t_0_4 1s0t_1_5,,,
+1s2f,RNA,RNA,null,,,, 1s2f_0_6 1s2f_1_3, 1s2f_0_1,, 1s2f_0_4
+1s34,RNA,RNA,null,,,, 1s34_0_6 1s34_1_3, 1s34_0_1,, 1s34_0_4
+1s37,DNA,DNA,null,,,, 1s37_0_5 1s37_1_5,, 1s37_0_1_1,
+1s40,Protein#DNA,CELL CYCLE/DNA,null,,,,,,,
+1s74,DNA,DNA,null,,,, 1s74_0_4 1s74_1_5,,,
+1s75,DNA,DNA,null,,,, 1s75_0_4 1s75_1_5,,,
+1s88,DNA,DNA,null,,,, 1s88_0_6 1s88_1_6,,,
+1s9l,RNA,RNA,null,,,,,,,
+1s9n,DNA,DNA,null,,,, 1s9n_0_5 1s9n_1_5,, 1s9n_0_2_2,
+1s9o,DNA,DNA,null,,,, 1s9o_0_5 1s9o_1_5,, 1s9o_0_2_2,
+1s9s,RNA,RNA,null,,,, 1s9s_0_4 1s9s_1_6 1s9s_2_4 1s9s_3_3 1s9s_4_4 1s9s_5_5 1s9s_6_10, 1s9s_0_1 1s9s_1_2 1s9s_2_4, 1s9s_0_2_2, 1s9s_0_4 1s9s_1_4 1s9s_2_4
+1saa,DNA,DNA,null,,,, 1saa_0_16,,,
+1scl,RNA,RNA,null,,,, 1scl_0_6,, 1scl_0_6_5, 1scl_0_4
+1sjk,DNA,DNA,null,,,, 1sjk_0_5 1sjk_1_6,,,
+1sjl,DNA,DNA,null,,,, 1sjl_0_5 1sjl_1_6,,,
+1skp,DNA,DNA,null,,,, 1skp_0_11,,,
+1slo,RNA,RNA,null,,,, 1slo_0_5 1slo_1_2, 1slo_0_1,, 1slo_0_4
+1slp,RNA,RNA,null,,,, 1slp_0_5 1slp_1_2, 1slp_0_1,, 1slp_0_4
+1sls,DNA,DNA,null,,,, 1sls_0_4 1sls_1_6 1sls_2_6 1sls_3_4,,, 1sls_0_17 1sls_1_17
+1snh,DNA,DNA,null,,,, 1snh_0_10,,,
+1snj,DNA,DNA,null,,,, 1snj_0_7 1snj_1_4 1snj_2_4,,, 1snj_0_2 1snj_1_2
+1sp6,DNA,DNA,null,,,, 1sp6_0_4 1sp6_1_5,,,
+1ss7,DNA,DNA,null,,,, 1ss7_0_16,,,
+1ssj,DNA,DNA,null,,,, 1ssj_0_4 1ssj_1_5,,,
+1ssv,DNA,DNA,null,,,, 1ssv_0_16,,,
+1sy4,RNA,RNA,null,,,, 1sy4_0_5 1sy4_1_3,, 1sy4_0_1_2, 1sy4_0_5
+1sy8,DNA,DNA,null,,,, 1sy8_0_6,,,
+1syz,RNA,RNA,null,,,, 1syz_0_5 1syz_1_3,, 1syz_0_1_2, 1syz_0_5
+1szy,RNA,RNA,null,,,, 1szy_0_7,,, 1szy_0_7
+1t28,RNA,RNA,null,,,, 1t28_0_9,,, 1t28_0_16
+1t2r,Protein#RNA,NUCLEIC ACID BINDING PROTEIN/RNA,null,,,,,,,
+1t2s,Protein#DNA,nucleic acid binding protein/dna,null,,,,,,,
+1t4l,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 1t4l_0_14,,, 1t4l_0_4
+1t4x,RNA,RNA,null,,,, 1t4x_0_6,,,
+1tan,DNA,DNA,null,,,, 1tan_0_4 1tan_1_4,,,
+1tbk,RNA,RNA,null,,,, 1tbk_0_6,,, 1tbk_0_5
+1tf3,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 1tf3_0_15,,,
+1tfn,RNA,RNA,null,,,, 1tfn_0_5 1tfn_1_2, 1tfn_0_1,, 1tfn_0_4
+1tjz,RNA,RNA,null,,,, 1tjz_0_3 1tjz_1_4,, 1tjz_0_2_2, 1tjz_0_4
+1tlr,RNA,RNA,null,,,, 1tlr_0_4 1tlr_1_3,, 1tlr_0_3_2, 1tlr_0_4
+1tn9,Protein#DNA,INTEGRASE/DNA,null,,,, 1tn9_0_13,,,
+1tne,DNA,DNA,null,,,, 1tne_0_6,,,
+1tob,RNA,RNA,null,TOA TOB TOC,,, 1tob_0_8 1tob_1_2, 1tob_0_1,, 1tob_0_6
+1tqr,DNA,DNA,null,,,, 1tqr_0_17,,,
+1ttd,DNA,DNA,null,,,, 1ttd_0_8 1ttd_1_3, 1ttd_0_1,,
+1tuq,DNA,DNA,null,,,, 1tuq_0_3 1tuq_1_4 1tuq_2_3,,,
+1tut,RNA,RNA,null,,,, 1tut_0_4 1tut_1_5,, 1tut_0_2_2,
+1txs,RNA,RNA,null,,,, 1txs_0_4 1txs_1_4 1txs_2_5, 1txs_0_2, 1txs_0_3_3, 1txs_0_4
+1u01,DNA,DNA,null,,,, 1u01_0_7,,,
+1u2a,RNA,RNA,null,,,, 1u2a_0_7,,, 1u2a_0_6
+1u3k,RNA,RNA,null,,,, 1u3k_0_6 1u3k_1_4 1u3k_2_4, 1u3k_0_3 1u3k_1_3,, 1u3k_0_4
+1u64,DNA,DNA,null,,,,,,,
+1u6c,DNA,DNA,null,,,, 1u6c_0_11,,,
+1u6n,DNA,DNA,null,,,, 1u6n_0_5 1u6n_1_5,, 1u6n_0_1_1,
+1u6o,DNA,DNA,null,,,, 1u6o_0_5 1u6o_1_2 1u6o_2_3,, 1u6o_0_1_1,
+1u6p,Protein#RNA,Viral protein/RNA,null,,ZN,, 1u6p_0_4 1u6p_1_6 1u6p_2_4 1u6p_3_3 1u6p_4_4 1u6p_5_5 1u6p_6_10, 1u6p_0_1 1u6p_1_2 1u6p_2_4, 1u6p_0_2_2, 1u6p_0_4 1u6p_1_4 1u6p_2_4
+1uab,DNA,DNA,null,,,, 1uab_0_12,,,
+1ull,Protein#RNA,Viral protein/RNA,null,,,, 1ull_0_4 1ull_1_3 1ull_2_4, 1ull_0_2, 1ull_0_2_3, 1ull_0_4
+1uqa,DNA,DNA,null,,,, 1uqa_0_6,,,
+1uqb,DNA,DNA,null,,,, 1uqb_0_6,,,
+1uqc,DNA,DNA,null,,,, 1uqc_0_6,,,
+1uqd,DNA,DNA,null,,,, 1uqd_0_6,,,
+1uqe,DNA,DNA,null,,,, 1uqe_0_6,,,
+1uqf,DNA,DNA,null,,,, 1uqf_0_6,,,
+1uqg,DNA,DNA,null,,,, 1uqg_0_6,,,
+1uts,RNA,HIV-1,null,P13,,, 1uts_0_6 1uts_1_4, 1uts_0_3,, 1uts_0_6
+1uud,RNA,HIV-1,null,P14,,, 1uud_0_6 1uud_1_4, 1uud_0_3,, 1uud_0_6
+1uui,RNA,HIV-1,null,P12,,, 1uui_0_6 1uui_1_4, 1uui_0_3,, 1uui_0_6
+1uuu,RNA,RNA,null,,,, 1uuu_0_6,,, 1uuu_0_5
+1vfc,Protein#DNA,STRUCTURAL PROTEIN/DNA,null,,,, 1vfc_0_13,,,
+1vop,RNA,RNA,null,,,, 1vop_0_4,,, 1vop_0_5
+1w86,DNA,DNA,null,,,, 1w86_0_8,,,
+1wan,DNA,DNA,null,,,, 1wan_0_8,,, 1wan_0_4
+1wks,RNA,RNA,null,,,, 1wks_0_6,,, 1wks_0_5
+1wtb,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+1wts,RNA,RNA,null,,,, 1wts_0_5,,, 1wts_0_4
+1wtt,RNA,RNA,null,,,, 1wtt_0_5,,, 1wtt_0_4
+1wwd,Protein#RNA,Viral protein/RNA,null,,ZN,,,,,
+1wwe,Protein#RNA,Viral protein/RNA,null,,ZN,,,,,
+1wwf,Protein#RNA,Viral protein/RNA,null,,ZN,,,,,
+1wwg,Protein#RNA,Viral protein/RNA,null,,ZN,,,,,
+1x0f,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+1x26,DNA,DNA,null,NAZ,,, 1x26_0_4 1x26_1_4,, 1x26_0_3_3,
+1x2o,DNA,DNA,null,,,, 1x2o_0_12,,,
+1x2s,DNA,DNA,null,,,, 1x2s_0_12,,,
+1x2u,DNA,DNA,null,,,, 1x2u_0_12,,,
+1x2v,DNA,DNA,null,,,, 1x2v_0_12,,,
+1x2x,DNA,DNA,null,,,, 1x2x_0_12,,,
+1x2y,DNA,DNA,null,,,, 1x2y_0_12,,,
+1x2z,DNA,DNA,null,,,, 1x2z_0_12,,,
+1x30,DNA,DNA,null,,,, 1x30_0_12,,,
+1x6w,DNA,DNA,null,,,, 1x6w_0_6,,,
+1x95,DNA,DNA,null,XR2,,, 1x95_0_6,,,
+1xav,DNA,DNA,null,,K,,,,,
+1xce,DNA,DNA,null,,,, 1xce_0_2 1xce_1_2,,,
+1xci,DNA,DNA,null,,,, 1xci_0_5 1xci_1_5,, 1xci_0_1_1,
+1xcy,DNA,DNA,null,,,, 1xcy_0_5 1xcy_1_5,,,
+1xcz,DNA,DNA,null,,,, 1xcz_0_5 1xcz_1_5,,,
+1xhp,RNA,RNA,null,,,, 1xhp_0_4 1xhp_1_4 1xhp_2_3,, 1xhp_0_1_1 1xhp_1_1_2, 1xhp_0_5
+1xrw,DNA,DNA,null,2PT,,, 1xrw_0_8,,,
+1xs9,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1xs9_0_20,,,
+1xsg,RNA,RNA,null,,,, 1xsg_0_5 1xsg_1_6, 1xsg_0_1,, 1xsg_0_4
+1xsh,RNA,RNA,null,,,, 1xsh_0_6 1xsh_1_5, 1xsh_0_1,, 1xsh_0_4
+1xst,RNA,RNA,null,,NCO,, 1xst_0_5 1xst_1_6, 1xst_0_1,, 1xst_0_4
+1xsu,RNA,RNA,null,,NCO,, 1xsu_0_6 1xsu_1_5, 1xsu_0_1,, 1xsu_0_4
+1xue,DNA,DNA,null,,,, 1xue_0_2 1xue_1_2,, 1xue_0_3_3, 1xue_0_3
+1xv0,RNA,RNA,null,,,, 1xv0_0_3 1xv0_1_3,, 1xv0_0_3_3,
+1xv6,RNA,RNA,null,,,,,,,
+1xwp,RNA,RNA,null,,,, 1xwp_0_4,,, 1xwp_0_6
+1xwu,RNA,RNA,null,,,, 1xwu_0_4,, 1xwu_0_1_1, 1xwu_0_3
+1y8d,DNA,DNA,null,,,,,,,
+1y9h,DNA,DNA,null,BAP,,, 1y9h_0_5 1y9h_1_5,, 1y9h_0_1_1,
+1ybl,DNA,DNA,null,,,,,,,
+1ybn,DNA,DNA,null,,,,,,,
+1ybr,DNA,DNA,null,,,,,,,
+1yct,DNA,DNA,null,,,, 1yct_0_6 1yct_1_5,,,
+1ycw,DNA,DNA,null,,,, 1ycw_0_5 1ycw_1_6,,,
+1yfv,RNA,RNA,null,,,, 1yfv_0_3 1yfv_1_3,, 1yfv_0_2_2,
+1yg3,RNA,RNA,null,,,, 1yg3_0_5 1yg3_1_3,,, 1yg3_0_6 1yg3_1_15
+1yg4,RNA,RNA,null,,,, 1yg4_0_5 1yg4_1_3,,, 1yg4_0_6 1yg4_1_15
+1ylg,RNA,RNA,null,,,, 1ylg_0_6 1ylg_1_4,, 1ylg_0_1_2, 1ylg_0_8
+1ymo,RNA,RNA,null,,,, 1ymo_0_6 1ymo_1_9,,, 1ymo_0_17 1ymo_1_14
+1yn1,RNA,RNA,null,,,, 1yn1_0_6,,, 1yn1_0_5
+1yn2,RNA,RNA,null,,MN,, 1yn2_0_6,,, 1yn2_0_5
+1ync,RNA,RNA,null,,,, 1ync_0_6 1ync_1_4,, 1ync_0_1_2, 1ync_0_8
+1yne,RNA,RNA,null,,,, 1yne_0_6 1yne_1_4,, 1yne_0_1_2, 1yne_0_8
+1yng,RNA,RNA,null,,,, 1yng_0_5 1yng_1_4,, 1yng_0_1_2, 1yng_0_8
+1ysv,RNA,RNA,null,,,, 1ysv_0_11,,, 1ysv_0_5
+1yui,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,ZN,, 1yui_0_11,,,
+1yuj,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,ZN,, 1yuj_0_11,,,
+1z2j,RNA,RNA,null,,,, 1z2j_0_8 1z2j_1_11, 1z2j_0_3,, 1z2j_0_4
+1z30,RNA,RNA,null,,,, 1z30_0_7,,, 1z30_0_4
+1z31,RNA,RNA,null,,,, 1z31_0_5 1z31_1_3 1z31_2_3, 1z31_0_1, 1z31_0_2_3, 1z31_0_4
+1zbn,Protein#RNA,RNA binding protein/RNA,null,,,, 1zbn_0_6 1zbn_1_4, 1zbn_0_1 1zbn_1_1,, 1zbn_0_4
+1zc5,RNA,RNA,null,,,, 1zc5_0_6 1zc5_1_11, 1zc5_0_3,, 1zc5_0_4
+1zgw,Protein#DNA,TRANSCRIPTION REGULATOR/DNA,null,,ZN,, 1zgw_0_18,,,
+1zhu,DNA,DNA,null,,,, 1zhu_0_2,,, 1zhu_0_3
+1zif,RNA,RNA,null,,,, 1zif_0_4,,, 1zif_0_4
+1zig,RNA,RNA,null,,,, 1zig_0_4,,, 1zig_0_4
+1zih,RNA,RNA,null,,,, 1zih_0_4,,, 1zih_0_4
+1zq3,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 1zq3_0_13,,,
+1zyf,DNA,DNA,null,,,, 1zyf_0_12,,,
+1zyg,DNA,DNA,null,,,, 1zyg_0_12,,,
+1zyh,DNA,DNA,null,,,, 1zyh_0_12,,,
+201d,DNA,DNA,null,,,,,,,
+202d,DNA,DNA,null,MNG,,, 202d_0_8,,,
+203d,DNA,DNA,null,PSO,,, 203d_0_8,,,
+204d,DNA,DNA,null,PSO,,, 204d_0_8,,,
+207d,DNA,DNA,null,CRH DDA DDL MDA,MG,, 207d_0_10,,,
+214d,DNA,DNA,null,,,, 214d_0_11,,,
+219d,DNA#RNA,DNA-RNA HYBRID,null,,,, 219d_0_10,,,
+225d,DNA,DNA,null,,,,,,,
+226d,DNA,DNA,null,BIZ,,, 226d_0_10,,,
+229d,DNA,DNA,null,,,, 229d_0_5,,, 229d_0_7
+230d,DNA,DNA,null,,,,,,,
+28sp,RNA,RNA,null,,,, 28sp_0_5 28sp_1_3,, 28sp_0_4_4, 28sp_0_4
+28sr,RNA,RNA,null,,,, 28sr_0_5 28sr_1_3,, 28sr_0_4_4, 28sr_0_4
+2a5p,DNA,DNA,null,,,,,,,
+2a5r,DNA,DNA,null,POH,,,,,,
+2a9l,RNA,RNA,null,,,, 2a9l_0_6 2a9l_1_4 2a9l_2_4, 2a9l_0_3 2a9l_1_3,, 2a9l_0_4
+2a9x,Protein#RNA,RNA binding protein/RNA,null,,,, 2a9x_0_6 2a9x_1_4, 2a9x_0_1 2a9x_1_1,, 2a9x_0_4
+2ad9,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2adb,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2adc,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2adt,RNA,RNA,null,,,, 2adt_0_5 2adt_1_12 2adt_2_5 2adt_3_12,, 2adt_0_2_3 2adt_1_2_3, 2adt_0_4 2adt_1_4
+2aht,RNA,RNA,null,,,, 2aht_0_6 2aht_1_4,, 2aht_0_1_2, 2aht_0_4
+2akg,DNA,DNA,null,,,,,,,
+2ap0,RNA,RNA,null,,,, 2ap0_0_5 2ap0_1_3,,, 2ap0_0_6 2ap0_1_15
+2ap5,RNA,RNA,null,,,, 2ap5_0_5 2ap5_1_3,,, 2ap5_0_6 2ap5_1_15
+2aqy,DNA,DNA,null,,,,,,,
+2arg,DNA,DNA,null,ARM,,, 2arg_0_6 2arg_1_2,,, 2arg_0_4 2arg_1_5
+2au4,RNA,RNA,null,GTP,,, 2au4_0_6 2au4_1_4,, 2au4_0_2_4 2au4_1_7_2, 2au4_0_4
+2awq,RNA,RNA,null,,,, 2awq_0_2, 2awq_0_1,, 2awq_0_7
+2awv,DNA,DNA,null,,,,,,,
+2b6g,Protein#RNA,RNA BINDING PROTEIN,null,,,, 2b6g_0_7, 2b6g_0_1,, 2b6g_0_2
+2b7g,RNA,RNA,null,,,, 2b7g_0_7,,, 2b7g_0_5
+2bj2,RNA,RNA,null,,,, 2bj2_0_7 2bj2_1_7 2bj2_2_6,,, 2bj2_0_7 2bj2_1_7
+2bjc,Protein#DNA,TRANSCRIPTION REGULATOR,null,,,, 2bjc_0_22,,,
+2bq2,DNA,DNA,null,NIX,,, 2bq2_0_4,,,
+2c06,Protein#RNA,TOXIN,null,,,,,,,
+2cd1,RNA,NUCLEIC ACID,null,,,, 2cd1_0_5 2cd1_1_6, 2cd1_0_1,, 2cd1_0_4
+2cd3,RNA,NUCLEIC ACID,null,,,, 2cd3_0_6 2cd3_1_5, 2cd3_0_1,, 2cd3_0_4
+2cd5,RNA,NUCLEIC ACID,null,,NCO,, 2cd5_0_5 2cd5_1_6, 2cd5_0_1,, 2cd5_0_4
+2cd6,RNA,NUCLEIC ACID,null,,NCO,, 2cd6_0_6 2cd6_1_5, 2cd6_0_1,, 2cd6_0_4
+2chj,DNA,NUCLEIC ACID,null,,,,,,,
+2chk,DNA,NUCLEIC ACID,null,,,,,,,
+2cjk,Protein#RNA,RNA BINDING PROTEIN,null,,,,,,,
+2d17,RNA,RNA,null,,,, 2d17_0_7 2d17_1_6,, 2d17_0_3_1,
+2d18,RNA,RNA,null,,,, 2d18_0_4 2d18_1_6 2d18_2_4,, 2d18_0_2_1 2d18_1_1_2,
+2d19,RNA,RNA,null,,,, 2d19_0_4 2d19_1_6 2d19_2_4,,, 2d19_0_9 2d19_1_9
+2d1a,RNA,RNA,null,,,, 2d1a_0_6 2d1a_1_7 2d1a_2_6 2d1a_3_7 2d1a_4_6,, 2d1a_0_2_1 2d1a_1_1_2 2d1a_2_1_3 2d1a_3_3_1,
+2d1b,RNA,RNA,null,,,, 2d1b_0_6 2d1b_1_7 2d1b_2_6 2d1b_3_6 2d1b_4_7,, 2d1b_0_1_3 2d1b_1_1_3, 2d1b_0_9 2d1b_1_9
+2da8,Protein#DNA,DNA/ANTIBIOTIC,null,QUI,,, 2da8_0_6,,,
+2dau,DNA,DNA,null,,,, 2dau_0_12,,,
+2dd1,RNA,RNA,null,,,, 2dd1_0_3 2dd1_1_3,, 2dd1_0_3_3,
+2dd2,RNA,RNA,null,,,, 2dd2_0_3 2dd2_1_3,, 2dd2_0_3_3,
+2dd3,RNA,RNA,null,,,, 2dd3_0_3 2dd3_1_3,, 2dd3_0_3_3,
+2e4i,DNA,DNA,null,,,,,,,
+2err,Protein#RNA,RNA BINDING PROTEIN,null,,,,,,,
+2es5,RNA,RNA,null,,,, 2es5_0_9, 2es5_0_1,, 2es5_0_2
+2ese,Protein#RNA,Protein/RNA Complex,null,,,, 2ese_0_9, 2ese_0_1,, 2ese_0_2
+2euy,RNA,RNA,null,,,, 2euy_0_6 2euy_1_4,, 2euy_0_2_2 2euy_1_2_2, 2euy_0_4
+2evy,RNA,RNA,null,,,, 2evy_0_4,,, 2evy_0_6
+2exf,Protein#DNA,Viral Protein/DNA,null,,ZN,, 2exf_0_3,,, 2exf_0_5
+2ezd,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2ezd_0_12,,,
+2eze,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2eze_0_12,,,
+2ezf,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2ezf_0_12,,,
+2ezg,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2ezg_0_12,,,
+2f1q,DNA,DNA,null,,NCO,, 2f1q_0_8 2f1q_1_3 2f1q_2_3 2f1q_3_4,,, 2f1q_0_2 2f1q_1_2 2f1q_2_2
+2f4x,RNA,RNA,null,,,, 2f4x_0_7 2f4x_1_6 2f4x_2_7,,, 2f4x_0_9 2f4x_1_9
+2f87,RNA,RNA,null,,,, 2f87_0_4,,, 2f87_0_4
+2f88,RNA,RNA,null,,,, 2f88_0_8 2f88_1_5,, 2f88_0_1_3, 2f88_0_4
+2f8u,DNA,DNA,null,,,,,,,
+2fdt,RNA,RNA,null,,,, 2fdt_0_7 2fdt_1_6, 2fdt_0_1, 2fdt_0_1_1, 2fdt_0_5
+2fey,RNA,RNA,null,,,, 2fey_0_5 2fey_1_3 2fey_2_4, 2fey_0_2, 2fey_0_2_1 2fey_1_3_2, 2fey_0_7
+2ff0,Protein#DNA,Hormone/Growth factor/DNA,null,,ZN,, 2ff0_0_15,,,
+2fy1,Protein#RNA,STRUCTURAL PROTEIN/RNA,null,,,, 2fy1_0_8,,, 2fy1_0_5
+2g1g,RNA,RNA,null,,,, 2g1g_0_5,,, 2g1g_0_7
+2g1w,RNA,RNA,null,,,, 2g1w_0_4 2g1w_1_3,,, 2g1w_0_5 2g1w_1_10
+2gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2gat_0_16,,,
+2gbh,RNA,RNA,null,,,, 2gbh_0_8,,,
+2ge2,DNA,DNA,null,AFF,,, 2ge2_0_11,,,
+2gio,RNA,RNA,null,,,, 2gio_0_5 2gio_1_3,, 2gio_0_1_1 2gio_1_3_2, 2gio_0_4
+2gip,RNA,RNA,null,,,, 2gip_0_5 2gip_1_5,, 2gip_0_2_2, 2gip_0_4
+2gkd,Protein#DNA,TOXIN/DNA,null,,,, 2gkd_0_11,,,
+2gku,DNA,DNA,null,,,,,,, 2gku_0_18
+2glo,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2glo_0_12,,,
+2gm0,RNA,RNA,null,,,, 2gm0_0_4 2gm0_1_7 2gm0_2_6 2gm0_3_7 2gm0_4_4,, 2gm0_0_2_1 2gm0_1_1_2 2gm0_2_1_3 2gm0_3_3_1,
+2grw,RNA,RNA,null,,,, 2grw_0_4 2grw_1_4,, 2grw_0_1_1, 2grw_0_4
+2gv3,RNA,RNA,null,,,, 2gv3_0_7, 2gv3_0_1,, 2gv3_0_5
+2gv4,RNA,RNA,null,,,, 2gv4_0_5 2gv4_1_3,, 2gv4_0_1_1, 2gv4_0_4
+2gvo,RNA,RNA,null,,,, 2gvo_0_6,,, 2gvo_0_6
+2gzk,Protein#DNA,DNA/STRUCTURAL PROTEIN,null,,,, 2gzk_0_16,,,
+2h3a,Protein#DNA,IMMUNE SYSTEM/DNA,null,,,, 2h3a_0_12,,,
+2h3c,Protein#DNA,IMMUNE SYSTEM/DNA,null,,,, 2h3c_0_12,,,
+2h49,RNA,RNA,null,,,, 2h49_0_3 2h49_1_3,, 2h49_0_3_3,
+2hdc,Protein#DNA,PROTEIN/DNA,null,,,, 2hdc_0_17,,,
+2hem,RNA,RNA,null,,,, 2hem_0_3 2hem_1_5,, 2hem_0_2_2, 2hem_0_4
+2hgh,Protein#RNA,TRANSCRIPTION/RNA,null,,ZN,, 2hgh_0_4 2hgh_1_2 2hgh_2_7 2hgh_3_2,, 2hgh_0_1_1 2hgh_1_5_4, 2hgh_0_4 2hgh_1_4
+2hk4,DNA,DNA,null,,,, 2hk4_0_2 2hk4_1_2,, 2hk4_0_2_2 2hk4_1_2_2,
+2hkb,DNA,DNA,null,,,, 2hkb_0_12,,,
+2hkc,DNA,DNA,null,GIQ,,, 2hkc_0_6 2hkc_1_5,, 2hkc_0_1_1,
+2hli,DNA,DNA,null,,,, 2hli_0_12,,,
+2hmd,DNA,DNA,null,,,, 2hmd_0_12,,,
+2hmr,DNA,DNA,null,,,, 2hmr_0_12,,,
+2hns,RNA,RNA,null,,,, 2hns_0_9,,, 2hns_0_4
+2hou,DNA,DNA,null,,,, 2hou_0_6 2hou_1_6,,,
+2hpx,DNA,DNA,null,,,, 2hpx_0_6 2hpx_1_6,,,
+2hsk,DNA,DNA,null,,,, 2hsk_0_6 2hsk_1_6,,,
+2hsl,DNA,DNA,null,,,, 2hsl_0_6 2hsl_1_6,,,
+2hsr,DNA,DNA,null,,,, 2hsr_0_6 2hsr_1_6,,,
+2hss,DNA,DNA,null,,,, 2hss_0_6 2hss_1_6,,,
+2hua,RNA,RNA,null,,,, 2hua_0_7 2hua_1_2 2hua_2_2,, 2hua_0_1_1 2hua_1_1_4 2hua_2_3_2, 2hua_0_4
+2hy9,DNA,DNA,null,,,,,,,
+2i2y,Protein#RNA,RNA binding protein/Chimera/RNA,null,,,,,,,
+2i7e,RNA,RIBONUCLEIC ACID,null,,NCO,, 2i7e_0_5 2i7e_1_12 2i7e_2_4 2i7e_3_12,, 2i7e_0_2_3 2i7e_1_3_4, 2i7e_0_4 2i7e_1_4
+2i7z,RNA,RIBONUCLEIC ACID,null,,MN,, 2i7z_0_5 2i7z_1_12 2i7z_2_5 2i7z_3_12,, 2i7z_0_2_3 2i7z_1_2_3, 2i7z_0_4 2i7z_1_4
+2icz,DNA,DNA,null,,,,,,,
+2idn,DNA,DNA,null,,,,,,,
+2ihx,Protein#RNA,VIRAL PROTEIN/RNA,null,,ZN,, 2ihx_0_8 2ihx_1_4 2ihx_2_5 2ihx_3_4 2ihx_4_3, 2ihx_0_1,, 2ihx_0_7 2ihx_1_5 2ihx_2_4
+2irn,RNA,RNA,null,,,, 2irn_0_3 2irn_1_3,, 2irn_0_2_2,
+2iro,RNA,RNA,null,,,, 2iro_0_2 2iro_1_2,, 2iro_0_4_4,
+2ixy,RNA,RNA,null,,,, 2ixy_0_4 2ixy_1_6, 2ixy_0_1 2ixy_1_1,, 2ixy_0_3
+2ixz,RNA,RNA,null,,,,, 2ixz_0_1,, 2ixz_0_3
+2jp9,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2jp9_0_17,,,
+2jpa,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2jpa_0_14,,,
+2jpp,Protein#RNA,TRANSLATION/RNA,null,,,, 2jpp_0_7 2jpp_1_7,,, 2jpp_0_6 2jpp_1_6
+2jpz,DNA,DNA,null,,,,,,,
+2jq7,Protein#RNA,RIBOSOME/ANTIBIOTIC,null,,,, 2jq7_0_5 2jq7_1_3 2jq7_2_3 2jq7_3_2,, 2jq7_0_2_2 2jq7_1_3_1, 2jq7_0_9 2jq7_1_6
+2jr4,RNA,RNA,null,,,, 2jr4_0_5,,, 2jr4_0_7
+2jrg,RNA,RNA,null,,,, 2jrg_0_5,,,
+2jrq,RNA,RNA,null,,,, 2jrq_0_5,,,
+2jse,RNA,RNA,null,,,, 2jse_0_4 2jse_1_3,, 2jse_0_2_2, 2jse_0_4
+2jsg,RNA,RNA,null,,,, 2jsg_0_5,,, 2jsg_0_7
+2jsk,DNA,DNA,null,,,,,,, 2jsk_0_18
+2jsl,DNA,DNA,null,,,,,,,
+2jsm,DNA,DNA,null,,,,,,, 2jsm_0_18
+2jsq,DNA,DNA,null,,,,,,,
+2jt7,DNA,DNA,null,DMY,,,,,,
+2jtp,RNA,RNA,null,,,, 2jtp_0_11 2jtp_1_2,, 2jtp_0_3_2, 2jtp_0_3
+2juk,RNA,RNA,null,G0B,,, 2juk_0_9,,, 2juk_0_4
+2jwq,DNA,DNA,null,MM0,,,,,,
+2jwv,RNA,RNA,null,,,, 2jwv_0_5 2jwv_1_4,, 2jwv_0_4_3, 2jwv_0_4
+2jx1,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2jx1_0_13,,,
+2jxi,Protein#DNA,"DNA BINDING PROTEIN, DNA",null,,,, 2jxi_0_10 2jxi_1_3,, 2jxi_0_1_1,
+2jxq,RNA,RNA,null,,,, 2jxq_0_10,,,
+2jxs,RNA,RNA,null,,,, 2jxs_0_4 2jxs_1_6, 2jxs_0_1,,
+2jxv,RNA,RNA,null,,,, 2jxv_0_8 2jxv_1_4,, 2jxv_0_2_3, 2jxv_0_4
+2jyf,RNA,RNA/RNA,null,,,, 2jyf_0_5 2jyf_1_12 2jyf_2_5 2jyf_3_12,, 2jyf_0_2_3 2jyf_1_2_3, 2jyf_0_4 2jyf_1_4
+2jyh,RNA,RNA/RNA,null,,,, 2jyh_0_5 2jyh_1_12 2jyh_2_5 2jyh_3_12,, 2jyh_0_2_3 2jyh_1_2_3, 2jyh_0_4 2jyh_1_4
+2jyj,RNA,RNA/RNA,null,,,, 2jyj_0_5 2jyj_1_12 2jyj_2_5 2jyj_3_12,, 2jyj_0_2_3 2jyj_1_2_3, 2jyj_0_4 2jyj_1_4
+2jyk,DNA,DNA,null,,,, 2jyk_0_21,,,
+2jym,RNA,RNA,null,,,, 2jym_0_5 2jym_1_3, 2jym_0_1 2jym_1_1,, 2jym_0_2
+2jzw,Protein#DNA,VIRAL PROTEIN/DNA,null,,ZN,, 2jzw_0_3,,, 2jzw_0_5
+2k0t,DNA,DNA,null,1PT,,, 2k0t_0_12,,,
+2k0u,DNA,DNA,null,1PT,,, 2k0u_0_12,,,
+2k0v,DNA,DNA,null,,,, 2k0v_0_12,,,
+2k1n,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2k1n_0_25,,,
+2k1y,DNA,DNA,null,,,, 2k1y_0_5 2k1y_1_5,, 2k1y_0_1_1,
+2k3z,RNA,RNA,null,,,, 2k3z_0_4 2k3z_1_4, 2k3z_0_1,,
+2k41,RNA,RNA,null,,,, 2k41_0_4 2k41_1_4, 2k41_0_1,,
+2k4l,DNA,DNA,null,PZD,,, 2k4l_0_14,,,
+2k5z,RNA,RNA,null,,,, 2k5z_0_4 2k5z_1_5 2k5z_2_2, 2k5z_0_1, 2k5z_0_1_1, 2k5z_0_4
+2k65,RNA,RNA,null,,,, 2k65_0_7,,,
+2k66,RNA,RNA,null,,,, 2k66_0_9,,, 2k66_0_4
+2k67,DNA,DNA,null,,,, 2k67_0_7,,,
+2k68,DNA,DNA,null,,,, 2k68_0_7,,,
+2k69,DNA,DNA,null,,,, 2k69_0_7,,,
+2k71,DNA,DNA,null,,,, 2k71_0_2,,, 2k71_0_4
+2k7e,RNA,RNA,null,,,, 2k7e_0_4 2k7e_1_6,, 2k7e_0_2_2,
+2k7f,Protein#DNA,REPLICATION/DNA,null,,,, 2k7f_0_10,,,
+2k8t,DNA,DNA,null,HNB,,, 2k8t_0_12,,,
+2k8u,DNA,DNA,null,HNB,,, 2k8u_0_12,,,
+2k8z,DNA,DNA,null,,,, 2k8z_0_2 2k8z_1_2,,,
+2k90,DNA,DNA,null,,,, 2k90_0_2 2k90_1_2,,,
+2k95,RNA,RNA,null,,,, 2k95_0_6 2k95_1_6 2k95_2_3, 2k95_0_1,, 2k95_0_17 2k95_1_14
+2k96,RNA,RNA,null,,,, 2k96_0_6 2k96_1_9,,, 2k96_0_17 2k96_1_14
+2k97,DNA,DNA,null,,,, 2k97_0_2 2k97_1_2,, 2k97_0_2_2 2k97_1_2_2,
+2kae,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2kae_0_20,,,
+2kal,DNA,DNA,null,,,, 2kal_0_8 2kal_1_3,, 2kal_0_1_1,
+2kar,DNA,DNA,null,HND,,, 2kar_0_6 2kar_1_5,, 2kar_0_1_1,
+2kas,DNA,DNA,null,HND,,, 2kas_0_6 2kas_1_4,, 2kas_0_2_2,
+2kaz,DNA,DNA,null,,K,, 2kaz_0_2,,, 2kaz_0_3 2kaz_1_3
+2kbd,DNA,DNA,null,,,, 2kbd_0_16,,,
+2kbp,RNA,RNA,null,,,,,,,
+2kd4,RNA,RNA,null,PRL,,,,,,
+2kd8,RNA,RNA,null,,,, 2kd8_0_9,,, 2kd8_0_4
+2kd9,DNA,DNA,null,,,, 2kd9_0_5 2kd9_1_5,, 2kd9_0_1_1,
+2kda,DNA,DNA,null,,,, 2kda_0_5 2kda_1_5,, 2kda_0_1_1,
+2kdq,Protein#RNA,RNA binding protein/RNA,null,,,, 2kdq_0_6 2kdq_1_4, 2kdq_0_3,, 2kdq_0_6
+2kdz,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2kdz_0_16,,,
+2ke6,RNA,RNA,null,,,, 2ke6_0_9 2ke6_1_3 2ke6_2_7, 2ke6_0_1 2ke6_1_1,, 2ke6_0_8
+2ke8,DNA,DNA,null,,AG,, 2ke8_0_7 2ke8_1_7,,,
+2kei,Protein#DNA,Transcription/DNA,null,,,, 2kei_0_23,,,
+2kej,Protein#DNA,Transcription/DNA,null,,,, 2kej_0_23,,,
+2kek,Protein#DNA,Transcription/DNA,null,,,, 2kek_0_23,,,
+2kez,RNA,RNA,null,,,, 2kez_0_5 2kez_1_3,, 2kez_0_1_2, 2kez_0_5
+2kf0,RNA,RNA,null,,,, 2kf0_0_5 2kf0_1_3,, 2kf0_0_1_2, 2kf0_0_5
+2kf7,DNA,DNA,null,,,,,,,
+2kf8,DNA,DNA,null,,,,,,,
+2kfy,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2kg0,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2kg1,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2kgp,RNA,RNA,null,MIX,,, 2kgp_0_3 2kgp_1_6, 2kgp_0_1,, 2kgp_0_6
+2kh0,DNA,DNA,null,HNF,,, 2kh0_0_6 2kh0_1_6,,,
+2kh1,DNA,DNA,null,HNF,,, 2kh1_0_6 2kh1_1_6,,,
+2kh3,DNA,DNA,null,,,, 2kh3_0_4 2kh3_1_5,,,
+2kh4,DNA,DNA,null,,,,,,,
+2kh5,DNA,DNA,null,,,, 2kh5_0_12,,,
+2kh6,DNA,DNA,null,,,, 2kh6_0_12,,,
+2kh7,DNA,DNA,null,,,, 2kh7_0_12,,,
+2kh8,DNA,DNA,null,,,, 2kh8_0_12,,,
+2kh9,Protein#RNA,SPLICING/RNA,null,,,,,,,
+2khy,RNA,RNA,null,,,, 2khy_0_4 2khy_1_4,, 2khy_0_1_1 2khy_1_7_7, 2khy_0_4
+2kk5,DNA,DNA,null,AQC,,, 2kk5_0_4,,,
+2kka,DNA,DNA,null,,,,,,,
+2kkf,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,ZN,, 2kkf_0_12,,,
+2kkk,DNA,DNA,null,,,,,,,
+2km3,DNA,DNA,null,,,,,, 2km3_0_2_2 2km3_1_2_2, 2km3_0_2
+2km8,Protein#RNA,RNA binding protein/RNA,null,,,,,,,
+2kmj,Protein#RNA,RNA/PEPTIDE,null,,,, 2kmj_0_7 2kmj_1_4, 2kmj_0_2,, 2kmj_0_4
+2kmk,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,ZN,, 2kmk_0_16,,,
+2kn7,Protein#DNA,HYDROLASE/DNA,null,,,,,,,
+2knk,DNA,DNA,null,TME,,, 2knk_0_8,,,
+2knl,DNA,DNA,null,TME,,, 2knl_0_8,,,
+2ko0,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2ko0_0_16,,,
+2koc,RNA,RNA,null,,,, 2koc_0_5,,, 2koc_0_4
+2kow,DNA,DNA,null,,,,,,, 2kow_0_8
+2kp3,RNA,RNA,null,,,, 2kp3_0_10,,,
+2kp4,DNA#RNA,DNA/RNA,null,,,, 2kp4_0_10,,,
+2kpc,RNA,RNA,null,,,, 2kpc_0_6,,, 2kpc_0_5
+2kpd,RNA,RNA,null,,,, 2kpd_0_5,,, 2kpd_0_7
+2kpr,DNA,DNA,null,,,,,,,
+2kpv,RNA,RNA,null,,,, 2kpv_0_4 2kpv_1_4 2kpv_2_4, 2kpv_0_1 2kpv_1_1, 2kpv_0_1_1, 2kpv_0_4
+2kqg,DNA,DNA,null,,K,,,,,
+2kqh,DNA,DNA,null,,K,,,,,
+2krp,RNA,RNA,null,,,, 2krp_0_5,,, 2krp_0_7
+2krq,RNA,RNA,null,,,, 2krq_0_5,,, 2krq_0_7
+2krv,RNA,RNA,null,,,, 2krv_0_5,,, 2krv_0_7
+2krw,RNA,RNA,null,,,, 2krw_0_5,,, 2krw_0_7
+2kry,RNA,RNA,null,,,, 2kry_0_4,,, 2kry_0_7
+2krz,RNA,RNA,null,,,, 2krz_0_4,,, 2krz_0_7
+2ktp,DNA,DNA,null,,,, 2ktp_0_5 2ktp_1_6, 2ktp_0_1,,
+2ktt,DNA,DNA,null,PBH,,, 2ktt_0_10,,,
+2ktz,RNA,RNA,null,ISH,,, 2ktz_0_5 2ktz_1_4 2ktz_2_2, 2ktz_0_1 2ktz_1_5, 2ktz_0_2_2, 2ktz_0_4
+2ku0,RNA,RNA,null,ISI,,, 2ku0_0_5 2ku0_1_4 2ku0_2_2, 2ku0_0_1 2ku0_1_5, 2ku0_0_2_2, 2ku0_0_4
+2kur,RNA,RNA,null,,,, 2kur_0_9 2kur_1_3 2kur_2_7, 2kur_0_1 2kur_1_1,, 2kur_0_8
+2kuu,RNA,RNA,null,,,, 2kuu_0_9 2kuu_1_3 2kuu_2_7, 2kuu_0_1 2kuu_1_1,, 2kuu_0_8
+2kuv,RNA,RNA,null,,,, 2kuv_0_9 2kuv_1_3 2kuv_2_7, 2kuv_0_1 2kuv_1_1,, 2kuv_0_8
+2kuw,RNA,RNA,null,,,, 2kuw_0_9 2kuw_1_2 2kuw_2_7, 2kuw_0_1, 2kuw_0_1_2, 2kuw_0_8
+2kuz,DNA,DNA,null,,,, 2kuz_0_13,,,
+2kv0,DNA,DNA,null,,,, 2kv0_0_6 2kv0_1_6,, 2kv0_0_1_1,
+2kv6,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2kv6_0_12,,,
+2kvn,RNA,RNA,null,,,, 2kvn_0_5,,, 2kvn_0_6
+2kvy,DNA,DNA,null,KVY,,,,,,
+2kwg,RNA,RNA,null,,,, 2kwg_0_19,,,
+2kx5,Protein#RNA,RNA binding protein/RNA,null,,,, 2kx5_0_6 2kx5_1_4, 2kx5_0_3,, 2kx5_0_6
+2kx8,RNA,RNA,null,ARG,,, 2kx8_0_6 2kx8_1_5 2kx8_2_5, 2kx8_0_2, 2kx8_0_1_2, 2kx8_0_5
+2kxm,RNA,RNA/Antibiotic,null,RIO,,, 2kxm_0_5 2kxm_1_2, 2kxm_0_3, 2kxm_0_1_1, 2kxm_0_6
+2kxn,Protein#RNA,RNA binding protein/RNA,null,,,,,,,
+2kxz,RNA,RNA,null,,,, 2kxz_0_4 2kxz_1_4,, 2kxz_0_2_2,
+2ky0,RNA,RNA,null,,,, 2ky0_0_4 2ky0_1_4,, 2ky0_0_2_2,
+2ky1,RNA,RNA,null,,,, 2ky1_0_4 2ky1_1_4,, 2ky1_0_2_2,
+2ky2,RNA,RNA,null,,,, 2ky2_0_3 2ky2_1_3,, 2ky2_0_2_2,
+2ky7,DNA,DNA,null,HY2,,, 2ky7_0_10,,,
+2ky8,Protein#DNA,TRANSCRIPTION/DNA,null,,MN,, 2ky8_0_2 2ky8_1_6,,,
+2kyd,RNA,RNA,null,,,, 2kyd_0_16,,,
+2kye,RNA,RNA,null,,,,,, 2kye_0_1_1 2kye_1_1_1, 2kye_0_5
+2kyo,DNA,DNA,null,,,,,,,
+2kyp,DNA,DNA,null,,,,,,,
+2kzd,DNA,DNA,null,,,,,,,
+2kze,DNA,DNA,null,,,,,,,
+2kzl,RNA,RNA,null,,,, 2kzl_0_6 2kzl_1_4 2kzl_2_4,, 2kzl_0_6_3 2kzl_1_7_7, 2kzl_0_4
+2l13,DNA,DNA,null,,,, 2l13_0_6,,,
+2l1f,RNA,RNA,null,,,, 2l1f_0_4 2l1f_1_3 2l1f_2_4 2l1f_3_5 2l1f_4_2 2l1f_5_7 2l1f_6_2 2l1f_7_4 2l1f_8_3 2l1f_9_4 2l1f_10_5 2l1f_11_8, 2l1f_0_1 2l1f_1_1 2l1f_2_2 2l1f_3_2 2l1f_4_4 2l1f_5_4,, 2l1f_0_4 2l1f_1_4 2l1f_2_4 2l1f_3_4
+2l1g,Protein#DNA,Transcription/DNA,null,,ZN,, 2l1g_0_16,,,
+2l1v,RNA,RNA,null,PRF,,, 2l1v_0_5 2l1v_1_3,,, 2l1v_0_12 2l1v_1_19
+2l2j,RNA,RNA,null,,,, 2l2j_0_4 2l2j_1_9 2l2j_2_4,, 2l2j_0_1_1 2l2j_1_1_1, 2l2j_0_4
+2l2k,Protein#RNA,Hydrolase/rna,null,,,, 2l2k_0_4 2l2k_1_9 2l2k_2_4,, 2l2k_0_1_1 2l2k_1_1_1, 2l2k_0_4
+2l2u,DNA,DNA,null,,,, 2l2u_0_5 2l2u_1_2 2l2u_2_5,,,
+2l2v,DNA,DNA,null,,,, 2l2v_0_5 2l2v_1_2 2l2v_2_5,,,
+2l3c,Protein#RNA,Hydrolase/RNA,null,,,, 2l3c_0_4 2l3c_1_10,, 2l3c_0_1_1, 2l3c_0_4
+2l3e,RNA,RNA,null,,,, 2l3e_0_7 2l3e_1_6, 2l3e_0_5,, 2l3e_0_4
+2l3j,Protein#RNA,Hydrolase/RNA,null,,,, 2l3j_0_7 2l3j_1_9 2l3j_2_3 2l3j_3_11,, 2l3j_0_1_1 2l3j_1_1_1 2l3j_2_1_1, 2l3j_0_5
+2l41,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2l45,Protein#DNA,VIRAL PROTEIN/DNA,null,,ZN,,,,,
+2l46,Protein#DNA,VIRAL PROTEIN/DNA,null,,ZN,,,,,
+2l4l,Protein#DNA,VIRAL PROTEIN/DNA,null,,ZN,,,,,
+2l5d,Protein#RNA,RNA binding protein/RNA,null,,,,,,,
+2l5k,DNA,DNA,null,,,, 2l5k_0_3 2l5k_1_4,, 2l5k_0_3_3, 2l5k_0_3
+2l5z,RNA,RNA,null,,,, 2l5z_0_6 2l5z_1_3,, 2l5z_0_3_1, 2l5z_0_4
+2l6i,RNA,RNA,null,,,, 2l6i_0_5, 2l6i_0_1,, 2l6i_0_2
+2l7d,DNA/RNA Hybrid,"DNA, RNA",null,,,, 2l7d_0_12,,,
+2l7v,DNA,DNA/INHIBITOR,null,QUL,K,,,,,
+2l88,DNA,DNA,null,,,,,,,
+2l8c,RNA,RNA,null,,,, 2l8c_0_4 2l8c_1_4,, 2l8c_0_1_1,
+2l8f,RNA,RNA,null,,,, 2l8f_0_3 2l8f_1_3,, 2l8f_0_4_4,
+2l8h,RNA,RNA,null,ARG L8H,,, 2l8h_0_6 2l8h_1_4, 2l8h_0_3,, 2l8h_0_6
+2l8i,DNA,DNA,null,,,, 2l8i_0_7 2l8i_1_5,,,
+2l8p,DNA,DNA,null,,,, 2l8p_0_12,,,
+2l8q,DNA,DNA,null,,,, 2l8q_0_12,,,
+2l8u,RNA,RNA,null,,,, 2l8u_0_4 2l8u_1_4,, 2l8u_0_1_1,
+2l8w,RNA,RNA,null,,,, 2l8w_0_4 2l8w_1_4,, 2l8w_0_1_1,
+2l94,RNA,RNA/INHIBITOR,null,L94,,, 2l94_0_8 2l94_1_11, 2l94_0_3,, 2l94_0_4
+2l9e,RNA,RNA,null,,,, 2l9e_0_5,,,
+2la5,Protein#RNA,RNA Binding Protein/RNA,null,,,, 2la5_0_5 2la5_1_2, 2la5_0_1,, 2la5_0_20
+2la9,RNA,RNA,null,,,, 2la9_0_4,,, 2la9_0_9
+2lac,RNA,RNA,null,,,, 2lac_0_5,,, 2lac_0_7
+2lar,DNA#RNA,DNA/RNA,null,,,, 2lar_0_9,,,
+2lb4,DNA#RNA,DNA/RNA,null,,,, 2lb4_0_9,,,
+2lbi,DNA,DNA,null,HND,,, 2lbi_0_12,,,
+2lbj,RNA,RNA,null,,,, 2lbj_0_7,,, 2lbj_0_3
+2lbk,RNA,RNA,null,,,, 2lbk_0_6,,, 2lbk_0_5
+2lbl,RNA,RNA,null,,,, 2lbl_0_5,,, 2lbl_0_7
+2lbq,RNA,RNA,null,,,, 2lbq_0_5,,, 2lbq_0_7
+2lbr,RNA,RNA,null,,,, 2lbr_0_4,,, 2lbr_0_9
+2lbs,Protein#RNA,HYDROLASE/RNA,null,,,, 2lbs_0_14,,, 2lbs_0_4
+2lby,DNA,DNA,null,,,,,,,
+2lc8,RNA,RNA,null,,,, 2lc8_0_3 2lc8_1_4 2lc8_2_4 2lc8_3_7, 2lc8_0_1, 2lc8_0_1_2, 2lc8_0_8 2lc8_1_27
+2ld5,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2ld5_0_11,,,
+2ld8,DNA,DNA,null,,,,,,,
+2ldl,RNA,RNA,null,,,, 2ldl_0_6 2ldl_1_3,, 2ldl_0_1_1, 2ldl_0_7
+2ldt,RNA,RNA,null,,,, 2ldt_0_7 2ldt_1_4,, 2ldt_0_2_3, 2ldt_0_4
+2ldz,RNA,RNA,null,,,, 2ldz_0_5 2ldz_1_5,, 2ldz_0_4_2, 2ldz_0_4
+2le6,DNA,DNA,null,,,,,,,
+2leb,Protein#RNA,RNA binding protein/RNA,null,,,,,,,
+2lec,Protein#RNA,RNA binding protein/RNA,null,,,,,,,
+2led,DNA,DNA,null,,,,,,,
+2lee,DNA,DNA,null,,,,,,,
+2lef,Protein#DNA,GENE REGULATION/DNA,null,,,, 2lef_0_15,,,
+2lex,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 2lex_0_10,,,
+2lfa,DNA,DNA,null,,,, 2lfa_0_12,,,
+2lfx,DNA,DNA,null,,,, 2lfx_0_12,,,
+2lfy,DNA,DNA,null,,,, 2lfy_0_4 2lfy_1_7,, 2lfy_0_1_1,
+2lg0,DNA,DNA,null,,,, 2lg0_0_12,,,
+2lg2,DNA,DNA,null,2LE,,, 2lg2_0_12,,,
+2lg3,DNA,DNA,null,HND,,, 2lg3_0_6 2lg3_1_5,, 2lg3_0_1_1,
+2lgm,DNA,DNA,null,A4A,,, 2lgm_0_5 2lgm_1_5,, 2lgm_0_1_1,
+2lho,DNA,DNA,null,,,, 2lho_0_6 2lho_1_5,,,
+2lhp,RNA,RNA,null,,,, 2lhp_0_9 2lhp_1_6,, 2lhp_0_1_2, 2lhp_0_4
+2li4,RNA,RNA,null,,,, 2li4_0_14,,, 2li4_0_4
+2li8,Protein#RNA,TRANSCRIPTION/RNA,null,,ZN,,,,,
+2lia,DNA,DNA,null,,,, 2lia_0_12,,,
+2lib,DNA,DNA,null,,,, 2lib_0_4 2lib_1_5,,,
+2ljj,RNA,RNA,null,,,, 2ljj_0_4 2ljj_1_5,, 2ljj_0_3_1, 2ljj_0_5
+2lk3,RNA,RNA,null,,,, 2lk3_0_4 2lk3_1_5, 2lk3_0_2,, 2lk3_0_4
+2lk7,DNA,DNA,null,,,,,,,
+2lkr,RNA,RNA,null,,,, 2lkr_0_3 2lkr_1_4 2lkr_2_5 2lkr_3_3 2lkr_4_4 2lkr_5_3 2lkr_6_12, 2lkr_0_1 2lkr_1_2, 2lkr_0_1_2 2lkr_1_5_6, 2lkr_0_5 2lkr_1_4
+2lkx,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2lkx_0_13,,,
+2ll9,DNA,DNA,null,,,, 2ll9_0_5 2ll9_1_5,, 2ll9_0_1_1,
+2llj,DNA,DNA,null,LLJ,,, 2llj_0_5 2llj_1_5,, 2llj_0_1_1,
+2lo5,DNA,DNA,null,,,, 2lo5_0_3, 2lo5_0_1,, 2lo5_0_3
+2lo8,DNA,DNA,null,,,, 2lo8_0_2, 2lo8_0_1,, 2lo8_0_3
+2loa,DNA,DNA,null,C4Q,ZN,, 2loa_0_2, 2loa_0_1,, 2loa_0_3
+2lod,DNA,DNA,null,,,,,,,
+2lp9,RNA,RNA,null,,,, 2lp9_0_5, 2lp9_0_1,, 2lp9_0_3
+2lpa,RNA,RNA,null,,,, 2lpa_0_6,,, 2lpa_0_3
+2lps,RNA,RNA,null,,,, 2lps_0_8 2lps_1_6, 2lps_0_2,, 2lps_0_4
+2lpt,RNA,RNA,null,,,, 2lpt_0_8 2lpt_1_5, 2lpt_0_1 2lpt_1_1,, 2lpt_0_4
+2lpw,DNA,DNA,null,,,,,,,
+2lqz,RNA,RNA,null,,,, 2lqz_0_5 2lqz_1_4,, 2lqz_0_4_1, 2lqz_0_4
+2lsc,DNA,DNA,null,,,, 2lsc_0_12,,,
+2lsf,DNA,DNA,null,,,, 2lsf_0_11,,,
+2lsx,DNA,DNA,null,,,,,, 2lsx_0_1_1 2lsx_1_1_1 2lsx_2_2_2 2lsx_3_2_2,
+2lsz,DNA,DNA,null,,,, 2lsz_0_5 2lsz_1_5,, 2lsz_0_1_1,
+2lt0,DNA,DNA,null,,,, 2lt0_0_5 2lt0_1_5,, 2lt0_0_1_1,
+2lt7,Protein#DNA,METAL BINDING PROTEIN/DNA,null,,ZN,, 2lt7_0_19,,,
+2ltt,Protein#DNA,"TRANSCRIPTION, DNA BINDING PROTEIN/DNA",null,,,,,,,
+2lu0,RNA,RNA,null,,,, 2lu0_0_5 2lu0_1_4 2lu0_2_2 2lu0_3_5,, 2lu0_0_2_3, 2lu0_0_4 2lu0_1_4
+2lub,RNA,RNA,null,,,, 2lub_0_9 2lub_1_6,, 2lub_0_1_2, 2lub_0_4
+2luj,DNA,DNA,null,,,,,,,
+2lun,RNA,RNA,null,,,, 2lun_0_4 2lun_1_4,, 2lun_0_1_1 2lun_1_2_2, 2lun_0_4
+2lup,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 2lup_0_14,,, 2lup_0_4
+2lv0,RNA,RNA,null,,,, 2lv0_0_8,,, 2lv0_0_8
+2lvy,RNA,RNA,null,,,, 2lvy_0_8,,,
+2lwg,DNA,DNA,null,,,, 2lwg_0_10,,,
+2lwh,DNA,DNA,null,NT,,, 2lwh_0_10,,,
+2lwk,RNA,RNA,null,0EC,,, 2lwk_0_7 2lwk_1_3,, 2lwk_0_1_1 2lwk_1_2_1, 2lwk_0_4
+2lwm,DNA,DNA,null,,,, 2lwm_0_5 2lwm_1_5,,,
+2lwn,DNA,DNA,null,,,, 2lwn_0_5 2lwn_1_5,,,
+2lwo,DNA,DNA,null,,,, 2lwo_0_5 2lwo_1_5,,,
+2lx1,RNA,RNA,null,,,, 2lx1_0_3 2lx1_1_3,, 2lx1_0_4_4,
+2lxq,DNA,DNA,null,,,,,,,
+2lxv,DNA,DNA,null,,,,,,,
+2lyg,DNA,DNA,null,1CF,,,,,,
+2lzk,DNA,DNA,null,14L,,, 2lzk_0_5 2lzk_1_5,, 2lzk_0_1_1,
+2lzv,DNA,DNA,null,HP6,,, 2lzv_0_5 2lzv_1_5,, 2lzv_0_1_1,
+2lzw,DNA,DNA,null,HP6,,, 2lzw_0_5 2lzw_1_5,, 2lzw_0_1_1,
+2m11,DNA,DNA,null,,,, 2m11_0_3 2m11_1_4 2m11_2_3,,,
+2m12,RNA,RNA,null,,,, 2m12_0_6, 2m12_0_2,, 2m12_0_7
+2m18,RNA,RNA,null,,,,,,,
+2m1g,DNA,DNA,null,,,,,,,
+2m1o,RNA,RNA,null,,,, 2m1o_0_6,,,
+2m1v,DNA#RNA,DNA/RNA,null,,,, 2m1v_0_9 2m1v_1_7,,, 2m1v_0_11
+2m21,RNA,RNA,null,,,, 2m21_0_7,,, 2m21_0_7
+2m22,RNA,RNA,null,,,, 2m22_0_5 2m22_1_3,, 2m22_0_1_1, 2m22_0_5
+2m23,RNA,RNA,null,,,, 2m23_0_9 2m23_1_7, 2m23_0_1,, 2m23_0_8
+2m24,RNA,RNA,null,,,, 2m24_0_9,,, 2m24_0_11
+2m27,DNA,DNA,null,,,,,,,
+2m2c,DNA,DNA,null,,,, 2m2c_0_14,,,
+2m2w,Protein#DNA,TRANSFERASE/DNA,null,DGT,MG,, 2m2w_0_3 2m2w_1_5,,, 2m2w_0_3 2m2w_1_3
+2m39,RNA,RNA,null,,,, 2m39_0_12,,,
+2m3p,DNA,DNA,null,,,, 2m3p_0_5 2m3p_1_5,,,
+2m3y,DNA,DNA,null,,,, 2m3y_0_5 2m3y_1_5,,,
+2m40,DNA,DNA,null,,,, 2m40_0_5 2m40_1_5,,,
+2m43,DNA,DNA,null,,,, 2m43_0_5 2m43_1_5,,,
+2m44,DNA,DNA,null,,,, 2m44_0_5 2m44_1_5,,,
+2m4p,DNA,DNA,null,,,,,,,
+2m4q,RNA,RNA/antibiotic,null,AM2,,, 2m4q_0_4 2m4q_1_4,, 2m4q_0_1_1 2m4q_1_1_2, 2m4q_0_4
+2m4w,RNA,RNA,null,,,, 2m4w_0_2 2m4w_1_3,, 2m4w_0_1_2, 2m4w_0_4
+2m53,DNA,DNA,null,,,,,,,
+2m54,DNA,DNA,null,,AG,, 2m54_0_7 2m54_1_7,,,
+2m57,RNA,RNA,null,,,, 2m57_0_2 2m57_1_4 2m57_2_4,, 2m57_0_2_2 2m57_1_2_4, 2m57_0_5
+2m58,RNA,RNA,null,,,, 2m58_0_2 2m58_1_3 2m58_2_3 2m58_3_4,, 2m58_0_3_2 2m58_1_3_3, 2m58_0_4 2m58_1_10 2m58_2_13
+2m5u,RNA,RNA,null,,,, 2m5u_0_9,,, 2m5u_0_4
+2m6v,DNA,DNA,null,,,,,,, 2m6v_0_9
+2m6w,DNA,DNA,null,,,,,,,
+2m84,DNA/RNA Hybrid,"DNA, RNA",null,,,, 2m84_0_12,,,
+2m8a,DNA/RNA Hybrid,"DNA, RNA",null,,,, 2m8a_0_12,,,
+2m8d,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2m8k,RNA,RNA,null,,,, 2m8k_0_5 2m8k_1_8, 2m8k_0_1 2m8k_1_1, 2m8k_0_1_1, 2m8k_0_18 2m8k_1_10
+2m8y,DNA,DNA,null,,,, 2m8y_0_6,,, 2m8y_0_3
+2m8z,DNA,DNA,null,,,, 2m8z_0_6,,, 2m8z_0_3
+2m90,DNA,DNA,null,,,, 2m90_0_6,,, 2m90_0_3
+2m91,DNA,DNA,null,,,, 2m91_0_6,,, 2m91_0_3
+2m92,DNA,DNA,null,,,, 2m92_0_6,,, 2m92_0_10 2m92_1_3
+2m93,DNA,DNA,null,,,, 2m93_0_5,,, 2m93_0_3
+2map,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+2mav,DNA,DNA,null,,,, 2mav_0_6 2mav_1_5,, 2mav_0_1_1,
+2may,DNA,DNA,null,,,,,,, 2may_0_18
+2mb0,Protein#RNA,SPLICING/RNA,null,,,,,,,
+2mb2,DNA,DNA,null,,,,,,,
+2mb3,DNA,DNA/DNA INHIBITOR,null,L2H,,,,,,
+2mb4,DNA,DNA,null,,,,,,,
+2mbj,DNA,DNA,null,,,,,,, 2mbj_0_15
+2mcc,DNA,DNA,null,RUL,,,,,,
+2mci,DNA,DNA,null,,,, 2mci_0_8,,,
+2mcj,DNA,DNA,null,,,, 2mcj_0_8,,,
+2mco,DNA,DNA,null,2FJ,NA,,,,, 2mco_0_12
+2me6,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2me6_0_14,,,
+2meq,RNA,RNA,null,,,, 2meq_0_6,,, 2meq_0_7
+2mer,RNA,RNA,null,,,, 2mer_0_5,,, 2mer_0_9
+2mf0,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 2mf0_0_4 2mf0_1_6 2mf0_2_4 2mf0_3_4,,, 2mf0_0_8 2mf0_1_6 2mf0_2_5 2mf0_3_5
+2mf1,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 2mf1_0_4 2mf1_1_6 2mf1_2_4 2mf1_3_5,,, 2mf1_0_8 2mf1_1_6 2mf1_2_5 2mf1_3_5
+2mf8,Protein#DNA,METAL BINDING PROTEIN/DNA,null,,ZN,, 2mf8_0_13,,,
+2mfc,Protein#RNA,TRANSLATION/RNA,null,,,, 2mfc_0_7 2mfc_1_7,,, 2mfc_0_8 2mfc_1_8
+2mfd,RNA,RNA,null,,,, 2mfd_0_7,,, 2mfd_0_5
+2mfe,Protein#RNA,TRANSLATION/RNA,null,,,, 2mfe_0_8 2mfe_1_8,,, 2mfe_0_6 2mfe_1_6
+2mff,Protein#RNA,TRANSLATION/RNA,null,,,, 2mff_0_8 2mff_1_8,,, 2mff_0_5 2mff_1_5
+2mfg,Protein#RNA,TRANSLATION/RNA,null,,,, 2mfg_0_8 2mfg_1_8,,, 2mfg_0_5 2mfg_1_5
+2mfh,Protein#RNA,TRANSLATION/RNA,null,,,,,,,
+2mft,DNA,DNA,null,,,,,,,
+2mfu,DNA,DNA,null,,,,,,,
+2mg8,DNA,DNA,null,XR2,,, 2mg8_0_15,,,
+2mgn,DNA,DNA,null,PQ3,,,,,,
+2mgz,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2mh6,DNA,DNA,null,,,, 2mh6_0_3 2mh6_1_4,, 2mh6_0_1_1,
+2mhi,RNA,RNA,null,,,, 2mhi_0_7 2mhi_1_4 2mhi_2_4 2mhi_3_3, 2mhi_0_1 2mhi_1_1 2mhi_2_2,, 2mhi_0_3 2mhi_1_5
+2mhx,DNA,DNA,null,,,, 2mhx_0_11,,,
+2mhz,DNA,DNA,null,,,, 2mhz_0_11,,,
+2mi0,RNA,RNA,null,,,, 2mi0_0_6 2mi0_1_3 2mi0_2_7, 2mi0_0_1,, 2mi0_0_6 2mi0_1_7
+2mis,RNA,RNA,null,,MG,, 2mis_0_6 2mis_1_3,, 2mis_0_3_1, 2mis_0_4
+2miv,DNA,DNA,null,2QL,,, 2miv_0_5 2miv_1_5, 2miv_0_1,,
+2miw,DNA,DNA,null,2QL,,, 2miw_0_4 2miw_1_5,, 2miw_0_2_2,
+2miy,RNA,RNA,null,PRF,,, 2miy_0_8 2miy_1_6 2miy_2_4,,, 2miy_0_12 2miy_1_4
+2mjh,Protein#RNA,RNA BINDING PROTEIN,null,,,,,,,
+2mjj,DNA,DNA,null,,,, 2mjj_0_2 2mjj_1_2,, 2mjj_0_6_6,
+2mjx,DNA,DNA,null,,,, 2mjx_0_6 2mjx_1_6, 2mjx_0_1 2mjx_1_1,,
+2mki,Protein#RNA,TRANSLATION REGULATOR/RNA,null,,,,,,,
+2mkk,Protein#RNA,TRANSLATION REGULATOR/RNA,null,,,,,,,
+2mkm,DNA,DNA,null,,,,,,,
+2mkn,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,ZN,, 2mkn_0_19,,,
+2mko,DNA,DNA,null,,K,,,,,
+2mmf,DNA,DNA,null,,,, 2mmf_0_4 2mmf_1_5,,,
+2mmq,DNA,DNA,null,,,, 2mmq_0_4 2mmq_1_5,,,
+2mmr,DNA,DNA,null,,,, 2mmr_0_4 2mmr_1_5,,,
+2mms,DNA,DNA,null,,,, 2mms_0_4 2mms_1_5,,,
+2mn0,RNA,RNA,null,,,, 2mn0_0_4,,, 2mn0_0_7
+2mna,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,,,,,
+2mnb,DNA,DNA,null,,,, 2mnb_0_10,,,
+2mnc,RNA,RNA,null,,,, 2mnc_0_4, 2mnc_0_1,, 2mnc_0_5
+2mnd,DNA,DNA,null,3BF,,, 2mnd_0_10,,,
+2mne,DNA,DNA,null,3B5,,, 2mne_0_10,,,
+2mnf,DNA,DNA,null,,,,,,,
+2mnx,DNA,DNA,null,,,, 2mnx_0_11,,,
+2mo2,DNA,DNA,null,,,, 2mo2_0_12,,,
+2mo7,DNA,DNA,null,,,, 2mo7_0_3 2mo7_1_4 2mo7_2_3,, 2mo7_0_1_1 2mo7_1_1_1,
+2moe,Protein#DNA,Hydrolase/DNA,null,,,, 2moe_0_10,,,
+2mqo,Protein#RNA,RNA  BINDING PROTEIN/RNA,null,,,,,,,
+2mqp,Protein#RNA,RNA  BINDING PROTEIN/RNA,null,,,,,,,
+2mqq,Protein#RNA,RNA  BINDING PROTEIN/RNA,null,,,,,,,
+2mqt,RNA,RNA,null,,,, 2mqt_0_5 2mqt_1_8 2mqt_2_4 2mqt_3_4 2mqt_4_4, 2mqt_0_1, 2mqt_0_1_1 2mqt_1_2_2 2mqt_2_5_2, 2mqt_0_4
+2mqv,Protein#RNA,VIRAL PROTEIN/RNA,null,,ZN,, 2mqv_0_5 2mqv_1_8 2mqv_2_4 2mqv_3_4 2mqv_4_4, 2mqv_0_1, 2mqv_0_1_1 2mqv_1_2_2 2mqv_2_5_2, 2mqv_0_4
+2mru,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2mru_0_15,,,
+2mrz,DNA,DNA,null,,,,,,,
+2ms0,Protein#RNA,VIRAL PROTEIN/RNA,null,,ZN,, 2ms0_0_5 2ms0_1_3 2ms0_2_6 2ms0_3_5,,, 2ms0_0_9 2ms0_1_7 2ms0_2_7
+2ms1,Protein#RNA,VIRAL PROTEIN/RNA,null,,ZN,, 2ms1_0_5 2ms1_1_3 2ms1_2_6 2ms1_3_5,,, 2ms1_0_9 2ms1_1_7 2ms1_2_7
+2ms5,RNA,RNA,null,,,, 2ms5_0_4 2ms5_1_4,, 2ms5_0_1_1,
+2ms6,DNA,DNA,null,QUE,,,,,,
+2ms9,DNA,DNA,null,,,,,,,
+2mtj,RNA,RNA,null,,,, 2mtj_0_5 2mtj_1_6 2mtj_2_4,,, 2mtj_0_2 2mtj_1_4
+2mtk,RNA,RNA,null,,MG,, 2mtk_0_5 2mtk_1_6 2mtk_2_4,,, 2mtk_0_2 2mtk_1_4
+2mtv,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2mvs,RNA,RNA,null,,,, 2mvs_0_10,,,
+2mvy,RNA,RNA,null,,,, 2mvy_0_10,,,
+2mwz,DNA,DNA,null,,,,,,, 2mwz_0_18
+2mxf,Protein#DNA,TRANSCRIPTION REGULATOR/DNA,null,,,, 2mxf_0_12,,,
+2mxj,RNA,RNA,null,,,, 2mxj_0_2,,, 2mxj_0_6
+2mxk,RNA,RNA,null,,,, 2mxk_0_3 2mxk_1_4,, 2mxk_0_2_2,
+2mxl,RNA,RNA,null,,,, 2mxl_0_7 2mxl_1_4 2mxl_2_2, 2mxl_0_1, 2mxl_0_2_2, 2mxl_0_6
+2mxs,RNA,RNA,null,PAR,,, 2mxs_0_5 2mxs_1_2, 2mxs_0_3, 2mxs_0_1_1, 2mxs_0_6
+2mxy,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2mz1,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2n0j,RNA,RNA,null,RIO,,, 2n0j_0_5 2n0j_1_2, 2n0j_0_3, 2n0j_0_1_1, 2n0j_0_6
+2n0q,DNA,DNA,null,,,, 2n0q_0_3 2n0q_1_8,, 2n0q_0_1_1,
+2n0r,RNA,RNA,null,,,, 2n0r_0_4,, 2n0r_0_3_6, 2n0r_0_4
+2n1q,RNA,RNA,null,,,, 2n1q_0_11 2n1q_1_5 2n1q_2_7 2n1q_3_3 2n1q_4_3 2n1q_5_3 2n1q_6_4 2n1q_7_7 2n1q_8_3 2n1q_9_5, 2n1q_0_1, 2n1q_0_1_1 2n1q_1_1_1 2n1q_2_2_2 2n1q_3_1_3 2n1q_4_2_2 2n1q_5_4_2, 2n1q_0_4 2n1q_1_4 2n1q_2_4
+2n21,Protein#DNA,HYDROLASE/DNA,null,,,,,,,
+2n2d,DNA,DNA,null,,,,,,,
+2n2o,RNA,RNA,null,,,, 2n2o_0_6,,, 2n2o_0_3
+2n2p,RNA,RNA,null,,,, 2n2p_0_6,,, 2n2p_0_3
+2n3m,DNA,DNA,null,,,,,,,
+2n3o,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 2n3o_0_9,,, 2n3o_0_5
+2n3q,RNA,RNA,null,,,, 2n3q_0_5 2n3q_1_3 2n3q_2_3 2n3q_3_3 2n3q_4_3 2n3q_5_4, 2n3q_0_1 2n3q_1_2, 2n3q_0_1_2, 2n3q_0_2 2n3q_1_4
+2n3r,RNA,RNA,null,,MG,, 2n3r_0_5 2n3r_1_3 2n3r_2_3 2n3r_3_3 2n3r_4_3 2n3r_5_4, 2n3r_0_1 2n3r_1_2, 2n3r_0_1_2, 2n3r_0_2 2n3r_1_4
+2n4j,RNA,UNKNOWN FUNCTION,null,,,, 2n4j_0_8,,,
+2n4l,RNA,RNA,null,,,, 2n4l_0_14 2n4l_1_3 2n4l_2_4, 2n4l_0_1 2n4l_1_1 2n4l_2_2,, 2n4l_0_5
+2n4m,DNA,DNA,null,,,, 2n4m_0_4 2n4m_1_7,, 2n4m_0_1_1,
+2n4y,DNA,DNA,null,,,,,,,
+2n5o,DNA,DNA,null,,,, 2n5o_0_4 2n5o_1_4,, 2n5o_0_1_1,
+2n5p,DNA,DNA,null,,,, 2n5p_0_9,,,
+2n60,DNA,DNA,null,,,,,,,
+2n6c,DNA,DNA,null,QUE,,,,,,
+2n6s,RNA,RNA,null,,,, 2n6s_0_14,, 2n6s_0_1_1, 2n6s_0_4
+2n6t,RNA,RNA,null,,,, 2n6t_0_4 2n6t_1_5 2n6t_2_4,, 2n6t_0_3_2 2n6t_1_3_4, 2n6t_0_4
+2n6w,RNA,RNA,null,,,, 2n6w_0_14 2n6w_1_5 2n6w_2_4,, 2n6w_0_2_2 2n6w_1_3_2 2n6w_2_3_4, 2n6w_0_4
+2n6x,RNA,RNA,null,,,, 2n6x_0_8 2n6x_1_7,, 2n6x_0_5_4, 2n6x_0_4
+2n7c,Protein#RNA,RNA Binding Protein/RNA,null,,,,,,,
+2n7m,RNA,RNA,null,,,, 2n7m_0_11 2n7m_1_5 2n7m_2_5 2n7m_3_3 2n7m_4_3 2n7m_5_7, 2n7m_0_1, 2n7m_0_1_1 2n7m_1_5_2, 2n7m_0_4 2n7m_1_4
+2n7x,RNA,RNA,null,,,, 2n7x_0_5 2n7x_1_2,, 2n7x_0_2_2, 2n7x_0_5
+2n82,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 2n82_0_4,,, 2n82_0_13
+2n89,DNA,DNA,null,,,,,,,
+2n8a,Protein#DNA,TRANSFERASE,null,,ZN,, 2n8a_0_9 2n8a_1_10,,, 2n8a_0_4 2n8a_1_2
+2n8l,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2n8m,Protein#RNA,RNA Binding Protein/RNA,null,,,,,,,
+2n8v,RNA,RNA,null,,,, 2n8v_0_5 2n8v_1_6 2n8v_2_5 2n8v_3_8, 2n8v_0_1,, 2n8v_0_6 2n8v_1_6
+2n96,DNA,DNA,null,4JF,,, 2n96_0_2 2n96_1_3,, 2n96_0_3_3,
+2n9f,DNA,DNA,null,,,, 2n9f_0_5 2n9f_1_6,,,
+2n9h,DNA,DNA,null,,,, 2n9h_0_6 2n9h_1_5,,,
+2n9q,DNA,DNA,null,,K,,,,,
+2nbj,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2nbj_0_13,,,
+2nbx,RNA,RNA,null,,,, 2nbx_0_6 2nbx_1_5 2nbx_2_6 2nbx_3_2 2nbx_4_5 2nbx_5_7 2nbx_6_7, 2nbx_0_1, 2nbx_0_1_1 2nbx_1_1_2 2nbx_2_3_1 2nbx_3_1_4, 2nbx_0_3 2nbx_1_5 2nbx_2_5
+2nby,RNA,RNA,null,,,, 2nby_0_7 2nby_1_2 2nby_2_5, 2nby_0_1, 2nby_0_1_1 2nby_1_1_2, 2nby_0_3
+2nbz,RNA,RNA,null,,,, 2nbz_0_8 2nbz_1_7,, 2nbz_0_1_4, 2nbz_0_5
+2nc0,RNA,RNA,null,,,, 2nc0_0_5 2nc0_1_5,, 2nc0_0_3_1, 2nc0_0_4
+2nc1,RNA,RNA,null,,,, 2nc1_0_6 2nc1_1_5 2nc1_2_6 2nc1_3_7,, 2nc1_0_3_1, 2nc1_0_4 2nc1_1_4 2nc1_2_5
+2nci,RNA,RNA,null,,,, 2nci_0_5 2nci_1_3,, 2nci_0_6_2, 2nci_0_4
+2ncq,RNA,RNA,null,,,, 2ncq_0_4 2ncq_1_4,, 2ncq_0_1_1,
+2ncr,RNA,RNA,null,,,, 2ncr_0_4 2ncr_1_4,, 2ncr_0_1_1,
+2neo,DNA,DNA,null,NCS,,, 2neo_0_5 2neo_1_3, 2neo_0_2,,
+2npw,DNA,DNA,null,CPT,,, 2npw_0_12,,,
+2nq0,DNA,DNA,null,CPT,,, 2nq0_0_12,,,
+2nq1,DNA,DNA,null,,,, 2nq1_0_12,,,
+2nq4,DNA,DNA,null,,,, 2nq4_0_12,,,
+2o32,RNA,RNA,null,,,, 2o32_0_2 2o32_1_4,, 2o32_0_1_1, 2o32_0_4
+2o33,RNA,RIBONUCLEIC ACID,null,,,, 2o33_0_3 2o33_1_3,, 2o33_0_2_2, 2o33_0_4
+2o3m,DNA,DNA,null,,,,,,, 2o3m_0_10
+2o4y,DNA,DNA,null,,,, 2o4y_0_4 2o4y_1_3,,,
+2o7w,DNA,DNA,null,,,, 2o7w_0_6 2o7w_1_6,,,
+2o7x,DNA,DNA,null,,,, 2o7x_0_6 2o7x_1_6,,,
+2o7y,DNA,DNA,null,,,, 2o7y_0_6 2o7y_1_6,,,
+2o7z,DNA,DNA,null,,,, 2o7z_0_6 2o7z_1_6,,,
+2o80,DNA,DNA,null,,,, 2o80_0_6 2o80_1_6,,,
+2o81,RNA,RNA,null,,,, 2o81_0_3 2o81_1_3,, 2o81_0_2_2,
+2o82,DNA,DNA,null,,,, 2o82_0_6 2o82_1_6,,,
+2o83,RNA,RNA,null,,,, 2o83_0_3 2o83_1_3,, 2o83_0_2_2,
+2o8k,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2o8k_0_14,,,
+2o9l,Protein#DNA,RNA POLYMERASE SIGMA FACTOR RPON/DNA,null,,,, 2o9l_0_14,,,
+2oeh,Protein#DNA,Transcription/DNA,null,,,, 2oeh_0_14,,,
+2oey,DNA,DNA,null,S2A,,, 2oey_0_5 2oey_1_5, 2oey_0_2,, 2oey_0_3
+2oj7,RNA,RNA,null,,,, 2oj7_0_2,,, 2oj7_0_4
+2oj8,RNA,RNA,null,,,, 2oj8_0_2,,, 2oj8_0_4
+2oom,RNA,RNA,null,,,, 2oom_0_5 2oom_1_5 2oom_2_4,,, 2oom_0_6 2oom_1_8
+2p7c,Protein#DNA,transcription regulator,null,,,, 2p7c_0_12,,,
+2p89,RNA,RNA,null,,,, 2p89_0_5 2p89_1_6 2p89_2_4 2p89_3_6,,, 2p89_0_4
+2pcv,RNA,RNA,null,,,, 2pcv_0_5 2pcv_1_4,, 2pcv_0_6_7, 2pcv_0_4
+2pcw,RNA,RNA,null,,,, 2pcw_0_5 2pcw_1_5 2pcw_2_4 2pcw_3_4,,, 2pcw_0_4
+2pik,DNA,DNA,null,DAG DSR EMP HIB MRP MTC,,, 2pik_0_9,,,
+2pn9,RNA,RNA,null,,,, 2pn9_0_5 2pn9_1_6 2pn9_2_4,,, 2pn9_0_6 2pn9_1_8
+2qh2,RNA,RNA,null,,,, 2qh2_0_8, 2qh2_0_1,, 2qh2_0_5
+2qh3,RNA,RNA,null,,,, 2qh3_0_8,,, 2qh3_0_7
+2qh4,RNA,RNA,null,,,, 2qh4_0_6,,, 2qh4_0_6
+2rlu,RNA,RNA,null,,,, 2rlu_0_7,,, 2rlu_0_5
+2rmq,DNA,DNA,null,,,, 2rmq_0_12,,,
+2rn1,RNA,RNA,null,,,, 2rn1_0_5 2rn1_1_6 2rn1_2_4,,, 2rn1_0_6 2rn1_1_8
+2ro2,RNA,RNA,null,,,, 2ro2_0_9,,, 2ro2_0_5
+2rou,DNA,DNA,null,BPJ,,, 2rou_0_13,,,
+2rp0,RNA,RNA,null,,,, 2rp0_0_5,, 2rp0_0_1_1, 2rp0_0_6 2rp0_1_14
+2rp1,RNA,RNA,null,,,, 2rp1_0_5 2rp1_1_3,,, 2rp1_0_6 2rp1_1_14
+2rpd,DNA,DNA,null,,,,,,,
+2rpe,DNA,DNA,null,,,,,,,
+2rpf,DNA,DNA,null,,,,,,,
+2rph,DNA,DNA,null,,,,,,,
+2rpk,RNA,RNA,null,,,, 2rpk_0_7,,, 2rpk_0_6
+2rpt,RNA,RNA,null,,,, 2rpt_0_4 2rpt_1_3,, 2rpt_0_1_1, 2rpt_0_4
+2rqc,Protein#RNA,TRANSCRIPTION/RNA,null,,,,,,,
+2rqj,RNA,RNA,null,,,,,,,
+2rra,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2rrc,RNA,RNA,null,,,, 2rrc_0_5, 2rrc_0_1, 2rrc_0_1_1, 2rrc_0_4
+2rrq,DNA,DNA,null,,,, 2rrq_0_14,,,
+2rrr,DNA,DNA,null,,,, 2rrr_0_14,,,
+2rs2,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2rsk,Protein#RNA,Membrane Protein/RNA,null,,,,,,,
+2rt8,DNA,DNA,null,,HG,, 2rt8_0_4 2rt8_1_4,, 2rt8_0_2_2,
+2ru3,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+2ru7,Protein#RNA,Membrane Protein/RNA,null,,,,,,,
+2rvo,RNA,RNA,null,,,, 2rvo_0_8 2rvo_1_5,, 2rvo_0_3_1, 2rvo_0_4
+2rvp,DNA,DNA,null,,AG,, 2rvp_0_7 2rvp_1_7,, 2rvp_0_1_1,
+2stt,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2stt_0_6 2stt_1_10,, 2stt_0_1_1,
+2stw,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 2stw_0_6 2stw_1_10,, 2stw_0_1_1,
+2tob,RNA,RNA,null,2TB TOA TOC,,, 2tob_0_4,, 2tob_0_2_2, 2tob_0_6
+2tpk,RNA,RNA,null,,,, 2tpk_0_5 2tpk_1_7,,, 2tpk_0_8 2tpk_1_12
+2u2a,RNA,RNA,null,,,, 2u2a_0_7,,, 2u2a_0_6
+2v3l,DNA,DNA,null,R6G,,, 2v3l_0_20,,,
+2vah,DNA,DNA,null,,,, 2vah_0_7,,, 2vah_0_4
+2vai,DNA,DNA,null,,,, 2vai_0_7,,, 2vai_0_4
+2wcc,Protein#DNA,PROTEIN/DNA,null,,,, 2wcc_0_12,,,
+2wcn,DNA,DNA,null,,,,,,,
+2xc7,Protein#RNA,RNA BINDING PROTEIN,null,,,,,,,
+2xeb,RNA,RNA,null,,,, 2xeb_0_6 2xeb_1_3 2xeb_2_3, 2xeb_0_1, 2xeb_0_5_2,
+2xfm,Protein#RNA,RNA/PROTEIN,null,,,,,,,
+2y95,RNA,RNA,null,,,, 2y95_0_5,,, 2y95_0_4
+2yh1,Protein#RNA,TRANSCRIPTION,null,,,,,,,
+2z2g,DNA,DNA,null,GIQ,,, 2z2g_0_3 2z2g_1_8,, 2z2g_0_1_1,
+2z2h,DNA,DNA,null,GIQ,,, 2z2h_0_4 2z2h_1_7,, 2z2h_0_1_1,
+2z33,Protein#DNA,TRANSCRIPTION/DNA,null,,,, 2z33_0_16,,,
+3gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 3gat_0_16,,,
+3kbd,DNA,DNA,null,,,, 3kbd_0_16,,,
+3php,RNA,RNA,null,,,, 3php_0_8,,, 3php_0_6
+3rec,DNA,DNA,null,,,,,,,
+484d,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,, 484d_0_7 484d_1_2, 484d_0_2,, 484d_0_7
+4a4r,RNA,RNA,null,,,, 4a4r_0_9,,, 4a4r_0_4
+4a4s,RNA,RNA,null,,,, 4a4s_0_9,,, 4a4s_0_4
+4a4t,RNA,RNA,null,,,, 4a4t_0_9,,, 4a4t_0_4
+4a4u,RNA,RNA,null,,,, 4a4u_0_9,,, 4a4u_0_4
+4b8t,Protein#RNA,TRANSCRIPTION/RNA,null,,,,,,,
+4bs2,Protein#RNA,TRANSCRIPTION,null,,,,,,,
+4by9,Protein#RNA,TRANSFERASE/RNA,null,,,, 4by9_0_6 4by9_1_11 4by9_2_4 4by9_3_9 4by9_4_6 4by9_5_11 4by9_6_4 4by9_7_11,, 4by9_0_6_3 4by9_1_3_6 4by9_2_6_3 4by9_3_3_6, 4by9_0_4 4by9_1_4
+4bzt,DNA,DNA,null,XR2,,, 4bzt_0_6,,,
+4bzu,DNA,DNA,null,XR2,,, 4bzu_0_8,,,
+4bzv,DNA,DNA,null,XR2,,, 4bzv_0_8,,,
+4ch1,Protein#DNA,TRANSCRIPTION/DNA,null,,,,,,,
+4cio,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,,,,,,
+4gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 4gat_0_13,,,
+4kbd,DNA,DNA,null,,,, 4kbd_0_16,,,
+5a17,RNA,RNA,null,,,, 5a17_0_8 5a17_1_2, 5a17_0_1, 5a17_0_2_2, 5a17_0_5
+5a18,RNA,RNA,null,,,, 5a18_0_8 5a18_1_2, 5a18_0_1, 5a18_0_2_2, 5a18_0_5
+5b7j,Protein#DNA,DNA BINDING PROTEIN/DNA,null,,,, 5b7j_0_12,,,
+5b81,DNA,DNA,null,,,, 5b81_0_6 5b81_1_3 5b81_2_5, 5b81_0_1 5b81_1_1,,
+5gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 5gat_0_13,,,
+5gwl,DNA,DNA,null,,NA,,,,, 5gwl_0_2 5gwl_1_2
+5gwq,DNA,DNA,null,,NA,,,,, 5gwq_0_2 5gwq_1_2
+5hqf,DNA,DNA,null,,,, 5hqf_0_5 5hqf_1_5,,,
+5hqq,DNA,DNA,null,,,, 5hqq_0_5 5hqq_1_5,,,
+5i2v,DNA,DNA,null,,K,,,,,
+5iem,RNA,TRANSCRIPTION,null,,,, 5iem_0_10 5iem_1_2 5iem_2_3 5iem_3_4 5iem_4_3, 5iem_0_1 5iem_1_2 5iem_2_2, 5iem_0_1_3, 5iem_0_4
+5iv1,DNA,DNA,null,,,, 5iv1_0_12,,,
+5izp,DNA,DNA,null,,,, 5izp_0_12,,,
+5j05,DNA,DNA,null,,,,,,,
+5j0m,Protein#RNA,VIRAL PROTEIN,null,,,, 5j0m_0_6 5j0m_1_4, 5j0m_0_3,, 5j0m_0_6
+5j1o,Protein#RNA,VIRAL PROTEIN,null,,,, 5j1o_0_5 5j1o_1_4, 5j1o_0_1, 5j1o_0_4_1, 5j1o_0_3
+5j2w,Protein#RNA,VIRAL PROTEIN,null,,,, 5j2w_0_6 5j2w_1_4, 5j2w_0_1 5j2w_1_3,, 5j2w_0_3
+5j3f,DNA,DNA,null,,,, 5j3f_0_10,,,
+5j3g,DNA,DNA,null,,,, 5j3g_0_10,,,
+5j3i,DNA,DNA,null,,,, 5j3i_0_10,,,
+5j4p,DNA,DNA,null,,,,,,,
+5j4w,DNA,DNA,null,,,,,,,
+5j6u,DNA,DNA,null,,,,,,,
+5kgv,DNA#DNA/RNA Hybrid,DNA,null,,,, 5kgv_0_9,,,
+5kh8,RNA,RNA,null,,,, 5kh8_0_4 5kh8_1_6 5kh8_2_4,,, 5kh8_0_8 5kh8_1_4
+5ki4,DNA,DNA,null,,,, 5ki4_0_9,,,
+5ki5,DNA,DNA,null,,,, 5ki5_0_9,,,
+5ki7,DNA#DNA/RNA Hybrid,DNA,null,,,, 5ki7_0_9,,,
+5kib,DNA#DNA/RNA Hybrid,DNA,null,,,, 5kib_0_9,,,
+5kie,DNA#DNA/RNA Hybrid,DNA,null,,,, 5kie_0_9,,,
+5kif,DNA#DNA/RNA Hybrid,DNA,null,,,, 5kif_0_9,,,
+5kih,DNA#DNA/RNA Hybrid,DNA,null,,,, 5kih_0_9,,,
+5kmz,RNA,RNA,null,,,, 5kmz_0_4 5kmz_1_4 5kmz_2_3,,, 5kmz_0_11 5kmz_1_8
+5kqe,RNA,RNA,null,,,, 5kqe_0_6 5kqe_1_6, 5kqe_0_1 5kqe_1_5,, 5kqe_0_4
+5l06,DNA,DNA,null,,,, 5l06_0_12,,,
+5l2g,DNA,DNA,null,,,, 5l2g_0_12,,,
+5lig,DNA,DNA,null,6XM,,,,,,
+5lwj,RNA,RNA,null,GTP,,, 5lwj_0_7 5lwj_1_2,,, 5lwj_0_10 5lwj_1_8
+5m1l,DNA,DNA,null,,,,,, 5m1l_0_2_2 5m1l_1_2_2 5m1l_2_4_4,
+5m1w,DNA,DNA,null,,,,,,,
+5m2l,DNA,DNA,null,,,,,, 5m2l_0_4_4 5m2l_1_4_4,
+5m4w,DNA,DNA,null,,,, 5m4w_0_2 5m4w_1_2,, 5m4w_0_6_6,
+5mbr,DNA,DNA,null,,,,,,, 5mbr_0_17
+5mcr,DNA,DNA,null,,,,,,,
+5mjx,DNA,DNA,null,,,,,,,
+5mpg,Protein#RNA,SPLICING,null,,,,,,,
+5mpl,Protein#RNA,SPLICING,null,,,,,,,
+5mvb,DNA,DNA,null,AUZ,K,,,,,
+5nip,DNA,DNA,null,,,,,, 5nip_0_2_2,
+5tgg,DNA/RNA Hybrid,"RNA,DNA",null,,,,,,,
+5trn,DNA,DNA,null,,,, 5trn_0_12,,,
+5u9b,Protein#RNA,RNA BINDING PROTEIN/RNA,null,,ZN,,,,,
+5uf3,RNA,RNA,null,,,, 5uf3_0_7 5uf3_1_2, 5uf3_0_1,, 5uf3_0_4
+5uz1,DNA,DNA,null,,,, 5uz1_0_12,,,
+5uz2,DNA,DNA,null,,,, 5uz2_0_12,,,
+5uz3,DNA,DNA,null,,,, 5uz3_0_12,,,
+5uzd,DNA,DNA,null,,,, 5uzd_0_12,,,
+5uzf,DNA,DNA,null,,,, 5uzf_0_12,,,
+5uzi,DNA,DNA,null,,,, 5uzi_0_8 5uzi_1_3,, 5uzi_0_1_1,
+5uzt,RNA,RNA,null,,,, 5uzt_0_7 5uzt_1_3, 5uzt_0_1,, 5uzt_0_10
+5uzz,Protein#RNA,TRANSPORT PROTEIN/RNA,null,,,, 5uzz_0_7,, 5uzz_0_3_4, 5uzz_0_8
+5v16,RNA,RNA,null,,,, 5v16_0_6 5v16_1_9, 5v16_0_5,, 5v16_0_6
+5v17,RNA,RNA,null,,,, 5v17_0_6 5v17_1_9, 5v17_0_5,, 5v17_0_6
+5v2r,RNA,RNA,null,,,, 5v2r_0_3 5v2r_1_3,, 5v2r_0_8_8,
+5vh7,RNA,RNA,null,,,, 5vh7_0_4 5vh7_1_2 5vh7_2_2 5vh7_3_4,, 5vh7_0_1_1 5vh7_1_1_1 5vh7_2_1_1,
+5vh8,RNA,RNA,null,,,, 5vh8_0_4 5vh8_1_2 5vh8_2_2 5vh8_3_4,, 5vh8_0_1_1 5vh8_1_1_1 5vh8_2_1_1,
+5wq1,RNA,RNA,null,,,, 5wq1_0_9,,, 5wq1_0_5
+6gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 6gat_0_13,,,
+7gat,Protein#DNA,TRANSCRIPTION/DNA,null,,ZN,, 7gat_0_13,,,
+8drh,DNA#RNA,DNA-RNA HYBRID,null,,,, 8drh_0_8,,,
+8psh,DNA#RNA,DNA-RNA HYBRID,null,,,, 8psh_0_8,,,

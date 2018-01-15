@@ -1,0 +1,32 @@
+
+required package for running PDBJunction
+pandas v 0.18.1
+numpy v 1.11.2
+json v 2.0.9
+
+pdblib
+learna_json
+commontool
+
+pull_pdb_json.py
+is to read all the PDB file in ./Crystal directory using DSSR, generate Json file into ./Json
+generate all the stem, bulge, internal loop, hairpin fragment
+
+check_json.py
+is to check the sanity of the json files in ./Json
+
+pdb_to_bulge.py
+pdb_to_iloop.py
+are to correct the format of each pdb fragment file in ./RawBulge and ./RawIloop,
+including adding a TER between 5' strand and 3' strand
+
+check_bulge_seg.py
+check_iloop_seg.py
+are to check the number of strand in each two-way junction fragment.
+
+pdb_to_bulgetable_dawn.py
+pdb_to_ilooptable_dawn.py
+are to generate the master table of inter-helical Euler angle of each two-way junction
+
+
+

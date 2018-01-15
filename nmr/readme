@@ -1,0 +1,20 @@
+
+
+Problematic pdb structure
+
+2arg.json cannot be read as a json file, copy the old json file in version 1.0
+2k4g.json cannot be read as a json file, remove it into recycle
+
+
+Problematic iloop structure
+
+y 1eu2_0_2_2: wired bi loop structure: remove it into recycle
+y 1eu2_1_2_2: wired bi loop structure: remove it into recycle
+y 1eu6_0_2_2: wired bi loop structure: remove it into recycle
+y 1eu6_1_2_2: wired bi loop structure: remove it into recycle
+y 1jdg_0_1_1: add insertion code B to the second strand
+y 1n96_0_2_2: wired bi loop structure: remove it into recycle
+y 1n96_1_2_2: wired bi loop structure: remove it into recycle
+y 2hk4_0_2_2: wired bi loop structure: remove it into recycle
+y 2hk4_1_2_2: wired bi loop structure: remove it into recycle
+

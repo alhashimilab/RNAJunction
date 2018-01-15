@@ -1,0 +1,43 @@
+
+The database has been updated to 2017-08-21
+
+Updated query
+
+4RZN has been updated to 5GUN on 2017-08-30
+
+Problematic catogory
+
+y 1g3x should be in dna category, but now in protein#dna, change the category
+
+Problematic pdb structure
+
+y 1r9f structure has some ensemble issue, redownload the non-BioAssemb file
+y 1bf5 structure has some ensemble issue, redownload the non-BioAssemb file
+y 2e1c structure has some ensemble issue, redownload the non-BioAssemb file and delete the second states
+y 3bnq structure BioAssemb1 file doesn't have ligand, download the BioAssemb2 file
+y 3bnr structure BioAssemb1 file doesn't have ligand, download the BioAssemb2 file
+y 3crx structure has some ensemble issue, redownload the non-BioAssemb file
+y 3pf4 structure has some ensemble issue, redownload the non-BioAssemb file
+y 4cis cannot analyze C6' atom, change C6' --> O4'
+y 4ktg structure has some ensemble issue, redownload the non-BioAssemb file
+y 4nfo structure BioAssemb1 file doesn't have ligand, download the BioAssemb2 file
+y 5eme structure has some issue, remove it into recycle
+y 5emf structure has some issue, remove it into recycle
+y 5eyq structure has some issue, remove it into recycle
+y 6cro structure has some ensemble issue, redownload the non-BioAssemb file
+y 6mht cannot analyze S4' atom, change S4' --> O4'
+
+Problematic stem structure
+
+none
+
+Problematic bulge structure
+
+none
+
+Problematic iloop structure
+
+y 284d_0_2_2: wired bi loop structure: remove it into recycle
+y 284d_1_2_2: wired bi loop structure: remove it into recycle
+y 2oiu_0_1_1: residue index is incorrect: remove it into recycle
+
