@@ -68,7 +68,7 @@ def plot2D(fig,row,column,num,x,y,title,xlabel,ylabel,color,xmin,xmax,ymin,ymax,
     if yticklabel is not None:
         ax.set_yticklabels(yticklabel)
 
-def hist1D(fig,row,column,num,array,binwidth,title,color,xmin,xmax,ymax,legend=None):
+def hist1D(fig,row,column,num,array,binwidth,title,color,xmin,xmax,ymax,legend=None,alpha=None):
     #row, column and num is subplot number. array is input distribution. title and color are default input. same thing as xmin xmax ymax. if you want to put a legend, please input [legendname, x, y]
     ax = fig.add_subplot(row,column,num)
     bins = np.arange(xmin,xmax,binwidth)
@@ -77,12 +77,18 @@ def hist1D(fig,row,column,num,array,binwidth,title,color,xmin,xmax,ymax,legend=N
     if legend is not None:
         if isinstance(legend, list):
             label, xl, yl = legend
-            hist, bins, p = ax.hist(array,bins=bins,normed=1,facecolor=color,alpha=0.7,label=label) 
+            if alpha is None:
+                hist, bins, p = ax.hist(array,bins=bins,normed=1,facecolor=color,alpha=0.7,label=label) 
+            else:
+                hist, bins, p = ax.hist(array,bins=bins,normed=1,facecolor=color,alpha=alpha,label=label) 
             ax.legend(bbox_to_anchor=(xl,yl),numpoints=1)
         else:
             print("legend should be a list including name and x, y position")
     else:
-        hist, bins, p = ax.hist(array,bins,normed=1,facecolor=color,alpha=0.7) 
+        if alpha is None:
+            hist, bins, p = ax.hist(array,bins=bins,normed=1,facecolor=color,alpha=0.7) 
+        else:
+            hist, bins, p = ax.hist(array,bins=bins,normed=1,facecolor=color,alpha=alpha) 
     for item in p:  #sum of the height to be one
         item.set_height(item.get_height()/sum(hist))
     ax.set_title(title,fontsize=16)
