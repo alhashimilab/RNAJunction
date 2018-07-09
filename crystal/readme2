@@ -1,14 +1,20 @@
 
-required package for running PDBJunction
+This database is updated until August 16th 2017
+
+required package for running PDBJunction:
 pandas v 0.18.1
 numpy v 1.11.2
 json v 2.0.9
 
-written library
+written library:
 pdblib
 common
 learna_json
 commontool
+
+pull_pdb_all.py
+is to loop all the PDB file in ./Crystal directory, generate a array text file containing
+all the PDB id in alphabet order. Please copy this output All_crystal.txt into ./PDBinfo 
 
 pull_pdb_json.py
 is to read all the PDB file in ./Crystal directory using DSSR, generate Json file into ./Json
